@@ -25,6 +25,7 @@ Leetcode and GFG solutions
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
@@ -61,6 +62,7 @@ Leetcode and GFG solutions
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Linked List
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Leetcode and GFG solutions
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 ## Binary Search
 |  |
