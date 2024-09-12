@@ -25,6 +25,7 @@ Leetcode and GFG solutions
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Design
 |  |
@@ -48,6 +49,7 @@ Leetcode and GFG solutions
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Leetcode and GFG solutions
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
+| [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 ## Binary Search
 |  |
 | ------- |
