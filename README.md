@@ -25,6 +25,7 @@ Leetcode and GFG solutions
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
@@ -43,6 +44,7 @@ Leetcode and GFG solutions
 | [0916-decoded-string-at-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0916-decoded-string-at-index) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 ## Greedy
