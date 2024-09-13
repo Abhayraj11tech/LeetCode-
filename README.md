@@ -79,6 +79,7 @@ Leetcode and GFG solutions
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
@@ -88,6 +89,7 @@ Leetcode and GFG solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -111,4 +113,8 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
