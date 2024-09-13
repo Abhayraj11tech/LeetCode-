@@ -109,6 +109,7 @@ Leetcode and GFG solutions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Binary Search
@@ -146,6 +147,7 @@ Leetcode and GFG solutions
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Divide and Conquer
