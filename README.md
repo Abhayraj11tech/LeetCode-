@@ -101,6 +101,7 @@ Leetcode and GFG solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
@@ -147,6 +148,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -175,4 +177,16 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
+## Depth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
