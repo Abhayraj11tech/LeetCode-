@@ -108,6 +108,7 @@ Leetcode and GFG solutions
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
@@ -188,6 +189,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -198,11 +200,13 @@ Leetcode and GFG solutions
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 ## Enumeration
@@ -230,4 +234,8 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
