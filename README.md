@@ -98,6 +98,7 @@ Leetcode and GFG solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
@@ -206,6 +207,7 @@ Leetcode and GFG solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
