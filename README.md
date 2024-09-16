@@ -103,6 +103,7 @@ Leetcode and GFG solutions
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
@@ -142,6 +143,7 @@ Leetcode and GFG solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -183,6 +185,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 ## Two Pointers
 |  |
 | ------- |
