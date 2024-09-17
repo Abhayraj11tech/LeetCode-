@@ -106,6 +106,7 @@ Leetcode and GFG solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
@@ -213,6 +214,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
