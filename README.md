@@ -129,6 +129,7 @@ Leetcode and GFG solutions
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
@@ -158,6 +159,7 @@ Leetcode and GFG solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 ## Ordered Set
