@@ -132,6 +132,7 @@ Leetcode and GFG solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
@@ -163,6 +164,7 @@ Leetcode and GFG solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 ## Ordered Set
@@ -229,6 +231,7 @@ Leetcode and GFG solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
