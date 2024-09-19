@@ -9,6 +9,7 @@ Leetcode and GFG solutions
 | [0007-reverse-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -134,6 +135,7 @@ Leetcode and GFG solutions
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
@@ -258,6 +260,7 @@ Leetcode and GFG solutions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
 |  |
@@ -302,4 +305,8 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
