@@ -9,6 +9,7 @@ Leetcode and GFG solutions
 | [0007-reverse-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
@@ -135,6 +136,7 @@ Leetcode and GFG solutions
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0217-contains-duplicate) |
@@ -242,6 +244,7 @@ Leetcode and GFG solutions
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
