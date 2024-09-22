@@ -146,6 +146,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
@@ -180,6 +181,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 ## Ordered Set
 |  |
@@ -223,6 +225,7 @@ Leetcode and GFG solutions
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -264,6 +267,7 @@ Leetcode and GFG solutions
 | [0217-contains-duplicate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -340,6 +344,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Quickselect
 |  |
 | ------- |
