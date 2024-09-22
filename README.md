@@ -9,6 +9,7 @@ Leetcode and GFG solutions
 | [0007-reverse-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
