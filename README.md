@@ -147,6 +147,7 @@ Leetcode and GFG solutions
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -262,6 +263,7 @@ Leetcode and GFG solutions
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
