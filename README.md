@@ -186,6 +186,7 @@ Leetcode and GFG solutions
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
@@ -248,6 +249,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -269,6 +271,7 @@ Leetcode and GFG solutions
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
