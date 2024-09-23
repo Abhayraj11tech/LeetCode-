@@ -172,6 +172,7 @@ Leetcode and GFG solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
