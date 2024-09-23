@@ -94,6 +94,7 @@ Leetcode and GFG solutions
 | [0324-wiggle-sort-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -189,6 +190,7 @@ Leetcode and GFG solutions
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
+| [0605-can-place-flowers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
