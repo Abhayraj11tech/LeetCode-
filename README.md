@@ -32,6 +32,7 @@ Leetcode and GFG solutions
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
@@ -104,6 +105,7 @@ Leetcode and GFG solutions
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
@@ -170,6 +172,7 @@ Leetcode and GFG solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
+| [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
@@ -320,6 +323,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
