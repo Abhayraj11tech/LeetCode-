@@ -197,6 +197,7 @@ Leetcode and GFG solutions
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
@@ -238,6 +239,7 @@ Leetcode and GFG solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 ## Ordered Set
 |  |
 | ------- |
@@ -318,6 +320,7 @@ Leetcode and GFG solutions
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -342,6 +345,7 @@ Leetcode and GFG solutions
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -436,6 +440,7 @@ Leetcode and GFG solutions
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0506-relative-ranks) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
@@ -458,4 +463,5 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
+| [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
