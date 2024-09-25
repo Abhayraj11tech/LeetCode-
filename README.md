@@ -215,6 +215,7 @@ Leetcode and GFG solutions
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -436,6 +437,7 @@ Leetcode and GFG solutions
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0724-find-pivot-index) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 ## Bit Manipulation
 |  |
