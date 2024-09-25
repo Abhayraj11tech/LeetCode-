@@ -212,6 +212,7 @@ Leetcode and GFG solutions
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
+| [0777-toeplitz-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0777-toeplitz-matrix) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0792-binary-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
@@ -307,6 +308,7 @@ Leetcode and GFG solutions
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
+| [0777-toeplitz-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0777-toeplitz-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
