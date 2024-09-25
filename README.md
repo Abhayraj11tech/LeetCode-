@@ -213,6 +213,7 @@ Leetcode and GFG solutions
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0777-toeplitz-matrix) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
@@ -372,6 +373,7 @@ Leetcode and GFG solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+| [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
