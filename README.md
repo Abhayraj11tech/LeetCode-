@@ -64,6 +64,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
 ## String
 |  |
@@ -129,6 +130,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 ## Array
@@ -207,6 +209,7 @@ Leetcode and GFG solutions
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
+| [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
@@ -383,6 +386,7 @@ Leetcode and GFG solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0648-replace-words) |
+| [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
@@ -481,4 +485,8 @@ Leetcode and GFG solutions
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
