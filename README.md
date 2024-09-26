@@ -19,6 +19,7 @@ Leetcode and GFG solutions
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
@@ -239,6 +240,7 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
@@ -344,6 +346,7 @@ Leetcode and GFG solutions
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0777-toeplitz-matrix) |
+| [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -541,6 +544,7 @@ Leetcode and GFG solutions
 ## Geometry
 |  |
 | ------- |
+| [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 ## Combinatorics
