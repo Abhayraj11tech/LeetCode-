@@ -242,6 +242,7 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
+| [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -305,6 +306,7 @@ Leetcode and GFG solutions
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Ordered Set
 |  |
@@ -396,6 +398,7 @@ Leetcode and GFG solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+| [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
@@ -429,6 +432,7 @@ Leetcode and GFG solutions
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
