@@ -116,6 +116,7 @@ Leetcode and GFG solutions
 | [0605-can-place-flowers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
+| [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
@@ -240,6 +241,7 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
+| [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
@@ -384,6 +386,7 @@ Leetcode and GFG solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+| [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
@@ -415,6 +418,7 @@ Leetcode and GFG solutions
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
