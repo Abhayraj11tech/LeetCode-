@@ -20,6 +20,7 @@ Leetcode and GFG solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
@@ -111,6 +112,7 @@ Leetcode and GFG solutions
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -234,6 +236,7 @@ Leetcode and GFG solutions
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
@@ -390,6 +393,7 @@ Leetcode and GFG solutions
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
