@@ -273,6 +273,7 @@ Leetcode and GFG solutions
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
+| [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
@@ -457,6 +458,7 @@ Leetcode and GFG solutions
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
+| [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1306-minimum-absolute-difference) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -493,6 +495,7 @@ Leetcode and GFG solutions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
+| [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -603,6 +606,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
+| [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 ## Sliding Window
 |  |
 | ------- |
