@@ -274,6 +274,7 @@ Leetcode and GFG solutions
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
@@ -485,6 +486,7 @@ Leetcode and GFG solutions
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
+| [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
