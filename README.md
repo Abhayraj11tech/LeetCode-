@@ -300,6 +300,7 @@ Leetcode and GFG solutions
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -364,6 +365,7 @@ Leetcode and GFG solutions
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -643,4 +645,8 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
