@@ -273,6 +273,7 @@ Leetcode and GFG solutions
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1293-three-consecutive-odds) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
