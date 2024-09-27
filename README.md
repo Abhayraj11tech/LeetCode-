@@ -28,6 +28,7 @@ Leetcode and GFG solutions
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
@@ -275,6 +276,7 @@ Leetcode and GFG solutions
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
