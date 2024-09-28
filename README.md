@@ -298,6 +298,7 @@ Leetcode and GFG solutions
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -491,6 +492,7 @@ Leetcode and GFG solutions
 | [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1306-minimum-absolute-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1306-minimum-absolute-difference) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -575,6 +577,7 @@ Leetcode and GFG solutions
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 ## Counting
 |  |
 | ------- |
@@ -584,6 +587,7 @@ Leetcode and GFG solutions
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Trie
 |  |
