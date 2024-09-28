@@ -30,6 +30,7 @@ Leetcode and GFG solutions
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -294,6 +295,7 @@ Leetcode and GFG solutions
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -375,6 +377,7 @@ Leetcode and GFG solutions
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0898-transpose-matrix) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
