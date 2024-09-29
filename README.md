@@ -306,6 +306,7 @@ Leetcode and GFG solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1580-shuffle-the-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -500,6 +501,7 @@ Leetcode and GFG solutions
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
@@ -633,6 +635,7 @@ Leetcode and GFG solutions
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
