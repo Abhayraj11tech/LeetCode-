@@ -17,6 +17,7 @@ Leetcode and GFG solutions
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
+| [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -217,6 +218,7 @@ Leetcode and GFG solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
+| [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0485-max-consecutive-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
@@ -577,6 +579,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
