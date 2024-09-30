@@ -331,6 +331,7 @@ Leetcode and GFG solutions
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1651-shuffle-string) |
+| [1656-count-good-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1656-count-good-triplets) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -588,6 +589,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
+| [1656-count-good-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1656-count-good-triplets) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
