@@ -328,6 +328,7 @@ Leetcode and GFG solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [1646-kth-missing-positive-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -371,6 +372,7 @@ Leetcode and GFG solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1646-kth-missing-positive-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1646-kth-missing-positive-number) |
 ## Ordered Set
 |  |
 | ------- |
