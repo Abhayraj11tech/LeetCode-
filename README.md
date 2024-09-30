@@ -325,6 +325,7 @@ Leetcode and GFG solutions
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -527,6 +528,7 @@ Leetcode and GFG solutions
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 ## Hash Table
