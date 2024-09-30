@@ -146,6 +146,7 @@ Leetcode and GFG solutions
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -343,6 +344,7 @@ Leetcode and GFG solutions
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1751-slowest-key](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1751-slowest-key) |
+| [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1833-find-the-highest-altitude](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1833-find-the-highest-altitude) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -561,6 +563,7 @@ Leetcode and GFG solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
