@@ -363,6 +363,7 @@ Leetcode and GFG solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2048-build-array-from-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -439,6 +440,7 @@ Leetcode and GFG solutions
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
+| [2048-build-array-from-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
