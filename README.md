@@ -132,6 +132,7 @@ Leetcode and GFG solutions
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
+| [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -367,6 +368,7 @@ Leetcode and GFG solutions
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
