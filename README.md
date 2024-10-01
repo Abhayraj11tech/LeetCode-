@@ -155,6 +155,7 @@ Leetcode and GFG solutions
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -365,6 +366,7 @@ Leetcode and GFG solutions
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1975-minimum-distance-to-the-target-element) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
@@ -593,6 +595,7 @@ Leetcode and GFG solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
+| [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -787,6 +790,7 @@ Leetcode and GFG solutions
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
+| [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 ## Sliding Window
 |  |
 | ------- |
