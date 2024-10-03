@@ -403,6 +403,7 @@ Leetcode and GFG solutions
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
@@ -685,6 +686,7 @@ Leetcode and GFG solutions
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -761,6 +763,7 @@ Leetcode and GFG solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
+| [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 ## Trie
 |  |
 | ------- |
