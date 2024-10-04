@@ -150,6 +150,7 @@ Leetcode and GFG solutions
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
@@ -436,6 +437,7 @@ Leetcode and GFG solutions
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
