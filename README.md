@@ -416,6 +416,7 @@ Leetcode and GFG solutions
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -458,6 +459,7 @@ Leetcode and GFG solutions
 | [1646-kth-missing-positive-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Ordered Set
 |  |
 | ------- |
@@ -649,6 +651,7 @@ Leetcode and GFG solutions
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
