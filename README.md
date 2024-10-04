@@ -439,6 +439,7 @@ Leetcode and GFG solutions
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2342-minimum-average-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2342-minimum-average-difference) |
+| [2350-find-closest-number-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2350-find-closest-number-to-zero) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
