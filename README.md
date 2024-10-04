@@ -428,6 +428,7 @@ Leetcode and GFG solutions
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
