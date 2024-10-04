@@ -423,7 +423,7 @@ Leetcode and GFG solutions
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
-| [2265-partition-array-according-to-given-pivot](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -509,7 +509,6 @@ Leetcode and GFG solutions
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
-| [2265-partition-array-according-to-given-pivot](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -546,6 +545,7 @@ Leetcode and GFG solutions
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -599,7 +599,6 @@ Leetcode and GFG solutions
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
-| [2265-partition-array-according-to-given-pivot](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -716,6 +715,7 @@ Leetcode and GFG solutions
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
