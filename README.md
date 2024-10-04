@@ -441,6 +441,7 @@ Leetcode and GFG solutions
 | [2342-minimum-average-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2342-minimum-average-difference) |
 | [2350-find-closest-number-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2350-find-closest-number-to-zero) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
@@ -529,6 +530,7 @@ Leetcode and GFG solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -746,6 +748,7 @@ Leetcode and GFG solutions
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
+| [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
