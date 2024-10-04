@@ -143,6 +143,7 @@ Leetcode and GFG solutions
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
@@ -413,6 +414,7 @@ Leetcode and GFG solutions
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
@@ -699,6 +701,7 @@ Leetcode and GFG solutions
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -778,6 +781,7 @@ Leetcode and GFG solutions
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Trie
 |  |
 | ------- |
