@@ -160,6 +160,7 @@ Leetcode and GFG solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
+| [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
@@ -467,6 +468,7 @@ Leetcode and GFG solutions
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
@@ -791,6 +793,7 @@ Leetcode and GFG solutions
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
+| [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
