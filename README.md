@@ -36,6 +36,7 @@ Leetcode and GFG solutions
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
+| [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
 | [1279-prime-arrangements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1279-prime-arrangements) |
