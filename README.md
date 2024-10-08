@@ -35,6 +35,7 @@ Leetcode and GFG solutions
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
+| [1033-broken-calculator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
@@ -175,6 +176,7 @@ Leetcode and GFG solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
+| [1033-broken-calculator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
