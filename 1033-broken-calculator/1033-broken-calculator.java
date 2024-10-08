@@ -1,12 +1,9 @@
 class Solution {
     public int brokenCalc(int startValue, int target) {
         int count = 0;
-        if(startValue == 1 && startValue == target ){
-            return 0;
-        }
-        if(startValue == 362 && startValue == target ){
-            return 0;
-        }
+       if(startValue == target){
+        return 0;
+       }
         
         while (true) {
             if (startValue > target) {
