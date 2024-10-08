@@ -38,6 +38,7 @@ Leetcode and GFG solutions
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
+| [1279-prime-arrangements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1284-four-divisors) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
