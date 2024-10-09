@@ -170,6 +170,7 @@ Leetcode and GFG solutions
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
@@ -495,6 +496,7 @@ Leetcode and GFG solutions
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2639-separate-the-digits-in-an-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -937,6 +939,7 @@ Leetcode and GFG solutions
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
