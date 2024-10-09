@@ -170,7 +170,6 @@ Leetcode and GFG solutions
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
@@ -203,6 +202,7 @@ Leetcode and GFG solutions
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
@@ -496,7 +496,7 @@ Leetcode and GFG solutions
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2639-separate-the-digits-in-an-array) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -773,6 +773,7 @@ Leetcode and GFG solutions
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 ## Hash Table
@@ -888,6 +889,7 @@ Leetcode and GFG solutions
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2342-minimum-average-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2342-minimum-average-difference) |
+| [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 ## Bit Manipulation
@@ -939,7 +941,6 @@ Leetcode and GFG solutions
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Trie
 |  |
 | ------- |
