@@ -253,6 +253,7 @@ Leetcode and GFG solutions
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
@@ -917,6 +918,7 @@ Leetcode and GFG solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
@@ -1088,6 +1090,7 @@ Leetcode and GFG solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Monotonic Queue
 |  |
