@@ -504,6 +504,7 @@ Leetcode and GFG solutions
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -609,6 +610,7 @@ Leetcode and GFG solutions
 | [2639-separate-the-digits-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2639-separate-the-digits-in-an-array) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Data Stream
 |  |
@@ -708,6 +710,7 @@ Leetcode and GFG solutions
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
+| [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
