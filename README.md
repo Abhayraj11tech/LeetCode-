@@ -117,6 +117,7 @@ Leetcode and GFG solutions
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0564-find-the-closest-palindrome) |
+| [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
@@ -682,6 +683,7 @@ Leetcode and GFG solutions
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0841-shortest-distance-to-a-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0841-shortest-distance-to-a-character) |
@@ -810,6 +812,7 @@ Leetcode and GFG solutions
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
@@ -1045,6 +1048,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
