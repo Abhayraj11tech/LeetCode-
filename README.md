@@ -42,6 +42,7 @@ Leetcode and GFG solutions
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
 | [1279-prime-arrangements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1284-four-divisors) |
+| [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
@@ -515,6 +516,7 @@ Leetcode and GFG solutions
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0910-nth-magical-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0910-nth-magical-number) |
+| [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -931,6 +933,7 @@ Leetcode and GFG solutions
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -972,6 +975,7 @@ Leetcode and GFG solutions
 ## Combinatorics
 |  |
 | ------- |
+| [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 ## Counting Sort
