@@ -179,7 +179,6 @@ Leetcode and GFG solutions
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
-| [2727-number-of-senior-citizens](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2727-number-of-senior-citizens) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 ## Greedy
 |  |
@@ -525,7 +524,7 @@ Leetcode and GFG solutions
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
-| [2727-number-of-senior-citizens](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2727-number-of-senior-citizens) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
@@ -901,6 +900,7 @@ Leetcode and GFG solutions
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2777-find-the-distinct-difference-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2777-find-the-distinct-difference-array) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
