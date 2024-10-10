@@ -40,6 +40,7 @@ Leetcode and GFG solutions
 | [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
+| [1276-closest-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1276-closest-divisors) |
 | [1279-prime-arrangements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1279-prime-arrangements) |
 | [1284-four-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1284-four-divisors) |
 | [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
