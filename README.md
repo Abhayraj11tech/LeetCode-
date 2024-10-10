@@ -524,6 +524,7 @@ Leetcode and GFG solutions
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
@@ -677,6 +678,7 @@ Leetcode and GFG solutions
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2737-row-with-maximum-ones) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
