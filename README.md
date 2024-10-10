@@ -524,6 +524,7 @@ Leetcode and GFG solutions
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2737-row-with-maximum-ones) |
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
@@ -635,6 +636,7 @@ Leetcode and GFG solutions
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
+| [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Data Stream
@@ -678,6 +680,7 @@ Leetcode and GFG solutions
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2737-row-with-maximum-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2737-row-with-maximum-ones) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -818,6 +821,7 @@ Leetcode and GFG solutions
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
+| [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
@@ -1049,6 +1053,7 @@ Leetcode and GFG solutions
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
