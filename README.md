@@ -545,6 +545,7 @@ Leetcode and GFG solutions
 | [2876-number-of-employees-who-met-the-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2902-max-pair-sum-in-an-array) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
@@ -922,6 +923,7 @@ Leetcode and GFG solutions
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
+| [2902-max-pair-sum-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2902-max-pair-sum-in-an-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
