@@ -557,6 +557,7 @@ Leetcode and GFG solutions
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
+| [3164-last-visited-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
@@ -676,6 +677,7 @@ Leetcode and GFG solutions
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3164-last-visited-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3164-last-visited-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 ## Data Stream
 |  |
