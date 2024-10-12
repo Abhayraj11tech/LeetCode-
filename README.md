@@ -557,6 +557,7 @@ Leetcode and GFG solutions
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
@@ -784,6 +785,7 @@ Leetcode and GFG solutions
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Sorting
 |  |
 | ------- |
