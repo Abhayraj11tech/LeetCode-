@@ -575,6 +575,7 @@ Leetcode and GFG solutions
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Binary Search
