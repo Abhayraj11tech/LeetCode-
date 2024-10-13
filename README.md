@@ -63,6 +63,7 @@ Leetcode and GFG solutions
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -225,6 +226,7 @@ Leetcode and GFG solutions
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -856,6 +858,7 @@ Leetcode and GFG solutions
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2283-sort-even-and-odd-indices-independently](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2283-sort-even-and-odd-indices-independently) |
