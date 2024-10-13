@@ -576,6 +576,7 @@ Leetcode and GFG solutions
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
@@ -1045,6 +1046,7 @@ Leetcode and GFG solutions
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Counting
 |  |
 | ------- |
