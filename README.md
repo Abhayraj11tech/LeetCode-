@@ -74,6 +74,7 @@ Leetcode and GFG solutions
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
 |  |
@@ -576,6 +577,7 @@ Leetcode and GFG solutions
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -738,6 +740,7 @@ Leetcode and GFG solutions
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3188-find-champion-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3188-find-champion-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Divide and Conquer
 |  |
@@ -970,6 +973,7 @@ Leetcode and GFG solutions
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
