@@ -577,6 +577,7 @@ Leetcode and GFG solutions
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
+| [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
@@ -694,6 +695,7 @@ Leetcode and GFG solutions
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3164-last-visited-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3164-last-visited-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
+| [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
 ## Data Stream
 |  |
 | ------- |
@@ -889,6 +891,7 @@ Leetcode and GFG solutions
 | [2836-neither-minimum-nor-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2836-neither-minimum-nor-maximum) |
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -1139,6 +1142,7 @@ Leetcode and GFG solutions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
+| [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
