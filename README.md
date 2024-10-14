@@ -596,6 +596,7 @@ Leetcode and GFG solutions
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
 | [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3330-modify-the-matrix) |
+| [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
