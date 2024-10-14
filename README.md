@@ -608,6 +608,7 @@ Leetcode and GFG solutions
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3415-check-if-grid-satisfies-conditions) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3429-special-array-i) |
@@ -776,6 +777,7 @@ Leetcode and GFG solutions
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3330-modify-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3330-modify-the-matrix) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
+| [3415-check-if-grid-satisfies-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3415-check-if-grid-satisfies-conditions) |
 ## Divide and Conquer
 |  |
 | ------- |
