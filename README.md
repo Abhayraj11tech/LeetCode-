@@ -67,6 +67,7 @@ Leetcode and GFG solutions
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -511,6 +512,7 @@ Leetcode and GFG solutions
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
