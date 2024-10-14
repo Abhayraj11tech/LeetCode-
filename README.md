@@ -609,6 +609,7 @@ Leetcode and GFG solutions
 | [3397-find-the-integer-added-to-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3415-check-if-grid-satisfies-conditions) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3429-special-array-i) |
@@ -1015,6 +1016,7 @@ Leetcode and GFG solutions
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
@@ -1128,6 +1130,7 @@ Leetcode and GFG solutions
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## Trie
 |  |
 | ------- |
