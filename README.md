@@ -599,6 +599,7 @@ Leetcode and GFG solutions
 | [3330-modify-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3330-modify-the-matrix) |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3334-apple-redistribution-into-boxes) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -717,6 +718,7 @@ Leetcode and GFG solutions
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
+| [3347-distribute-elements-into-two-arrays-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Data Stream
 |  |
