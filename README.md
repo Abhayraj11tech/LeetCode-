@@ -79,6 +79,7 @@ Leetcode and GFG solutions
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Stack
@@ -593,6 +594,7 @@ Leetcode and GFG solutions
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
+| [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -908,6 +910,7 @@ Leetcode and GFG solutions
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
+| [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
