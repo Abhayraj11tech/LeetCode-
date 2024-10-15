@@ -67,6 +67,7 @@ Leetcode and GFG solutions
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
@@ -518,6 +519,7 @@ Leetcode and GFG solutions
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1091,6 +1093,7 @@ Leetcode and GFG solutions
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
