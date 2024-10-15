@@ -622,6 +622,7 @@ Leetcode and GFG solutions
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3429-special-array-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -857,6 +858,7 @@ Leetcode and GFG solutions
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -946,6 +948,7 @@ Leetcode and GFG solutions
 | [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
 | ------- |
