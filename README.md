@@ -72,6 +72,7 @@ Leetcode and GFG solutions
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2619-categorize-box-according-to-criteria) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
