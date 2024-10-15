@@ -622,6 +622,7 @@ Leetcode and GFG solutions
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3429-special-array-i) |
+| [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -1259,6 +1260,7 @@ Leetcode and GFG solutions
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
 ## Hash Function
 |  |
 | ------- |
