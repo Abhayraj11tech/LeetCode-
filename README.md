@@ -145,6 +145,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
@@ -1184,6 +1185,7 @@ Leetcode and GFG solutions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0648-replace-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0648-replace-words) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
