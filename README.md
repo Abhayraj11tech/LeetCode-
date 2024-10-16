@@ -96,6 +96,7 @@ Leetcode and GFG solutions
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
@@ -140,6 +141,7 @@ Leetcode and GFG solutions
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
@@ -691,6 +693,7 @@ Leetcode and GFG solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
