@@ -80,6 +80,7 @@ Leetcode and GFG solutions
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
@@ -1312,6 +1313,7 @@ Leetcode and GFG solutions
 | [0046-permutations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Queue
 |  |
 | ------- |
