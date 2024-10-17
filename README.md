@@ -85,6 +85,7 @@ Leetcode and GFG solutions
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
+| [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
@@ -274,6 +275,7 @@ Leetcode and GFG solutions
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+| [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Monotonic Stack
@@ -1168,6 +1170,7 @@ Leetcode and GFG solutions
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
+| [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
