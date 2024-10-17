@@ -159,6 +159,7 @@ Leetcode and GFG solutions
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
@@ -996,6 +997,7 @@ Leetcode and GFG solutions
 | [0128-longest-consecutive-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
