@@ -84,6 +84,7 @@ Leetcode and GFG solutions
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2812-find-the-maximum-achievable-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2812-find-the-maximum-achievable-number) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
