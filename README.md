@@ -155,6 +155,7 @@ Leetcode and GFG solutions
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
@@ -847,6 +848,7 @@ Leetcode and GFG solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
