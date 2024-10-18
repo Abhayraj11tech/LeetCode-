@@ -1166,6 +1166,7 @@ Leetcode and GFG solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -1486,6 +1487,7 @@ Leetcode and GFG solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -1501,6 +1503,7 @@ Leetcode and GFG solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -1516,5 +1519,6 @@ Leetcode and GFG solutions
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
