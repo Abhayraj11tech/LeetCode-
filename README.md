@@ -703,6 +703,7 @@ Leetcode and GFG solutions
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
@@ -1228,6 +1229,7 @@ Leetcode and GFG solutions
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0137-single-number-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -1496,6 +1498,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
@@ -1535,6 +1538,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
