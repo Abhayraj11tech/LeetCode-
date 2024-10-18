@@ -608,6 +608,7 @@ Leetcode and GFG solutions
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -759,6 +760,7 @@ Leetcode and GFG solutions
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
 ## Simulation
@@ -1139,6 +1141,7 @@ Leetcode and GFG solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
+| [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
@@ -1178,6 +1181,7 @@ Leetcode and GFG solutions
 | [2342-minimum-average-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2342-minimum-average-difference) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2676-find-the-score-of-all-prefixes-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2676-find-the-score-of-all-prefixes-of-an-array) |
+| [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2714-left-and-right-sum-differences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2714-left-and-right-sum-differences) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
@@ -1431,6 +1435,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
+| [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 ## Segment Tree
 |  |
