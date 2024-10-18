@@ -174,6 +174,7 @@ Leetcode and GFG solutions
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
@@ -739,6 +740,7 @@ Leetcode and GFG solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
+| [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
@@ -880,6 +882,7 @@ Leetcode and GFG solutions
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
