@@ -93,6 +93,7 @@ Leetcode and GFG solutions
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3367-find-the-sum-of-encrypted-integers) |
@@ -238,6 +239,7 @@ Leetcode and GFG solutions
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3194-find-words-containing-character) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
@@ -284,6 +286,7 @@ Leetcode and GFG solutions
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
+| [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3351-maximize-happiness-of-selected-children) |
 ## Monotonic Stack
