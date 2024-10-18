@@ -98,6 +98,7 @@ Leetcode and GFG solutions
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
+| [3374-count-alternating-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3374-count-alternating-subarrays) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -655,6 +656,7 @@ Leetcode and GFG solutions
 | [3351-maximize-happiness-of-selected-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
+| [3374-count-alternating-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3374-count-alternating-subarrays) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 | [3415-check-if-grid-satisfies-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3415-check-if-grid-satisfies-conditions) |
