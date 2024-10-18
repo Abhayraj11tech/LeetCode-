@@ -1165,6 +1165,7 @@ Leetcode and GFG solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -1182,6 +1183,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1494,6 +1496,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1532,6 +1535,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
