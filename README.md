@@ -174,6 +174,7 @@ Leetcode and GFG solutions
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0383-ransom-note](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
@@ -1037,6 +1038,7 @@ Leetcode and GFG solutions
 | [0290-word-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
@@ -1211,6 +1213,7 @@ Leetcode and GFG solutions
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
