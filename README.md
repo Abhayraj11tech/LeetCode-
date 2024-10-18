@@ -174,6 +174,7 @@ Leetcode and GFG solutions
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
@@ -1036,6 +1037,7 @@ Leetcode and GFG solutions
 | [0290-word-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -1209,6 +1211,7 @@ Leetcode and GFG solutions
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -1370,6 +1373,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
