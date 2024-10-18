@@ -484,6 +484,7 @@ Leetcode and GFG solutions
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -750,6 +751,7 @@ Leetcode and GFG solutions
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
+| [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1422,10 +1424,12 @@ Leetcode and GFG solutions
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 ## Segment Tree
 |  |
 | ------- |
+| [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 ## Game Theory
 |  |
