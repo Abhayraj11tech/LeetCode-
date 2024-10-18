@@ -642,6 +642,7 @@ Leetcode and GFG solutions
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3164-last-visited-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3164-last-visited-integers) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -763,6 +764,7 @@ Leetcode and GFG solutions
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -1437,12 +1439,14 @@ Leetcode and GFG solutions
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
+| [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Game Theory
 |  |
 | ------- |
