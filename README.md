@@ -174,6 +174,7 @@ Leetcode and GFG solutions
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
@@ -885,6 +886,7 @@ Leetcode and GFG solutions
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
