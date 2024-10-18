@@ -112,6 +112,7 @@ Leetcode and GFG solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
@@ -1166,6 +1167,7 @@ Leetcode and GFG solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -1500,6 +1502,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
@@ -1541,6 +1544,7 @@ Leetcode and GFG solutions
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
