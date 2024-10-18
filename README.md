@@ -94,6 +94,7 @@ Leetcode and GFG solutions
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3367-find-the-sum-of-encrypted-integers) |
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
@@ -238,6 +239,7 @@ Leetcode and GFG solutions
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -1215,6 +1217,7 @@ Leetcode and GFG solutions
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3519-find-the-number-of-winning-players](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3519-find-the-number-of-winning-players) |
 ## Trie
