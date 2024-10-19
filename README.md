@@ -188,6 +188,7 @@ Leetcode and GFG solutions
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
