@@ -1180,6 +1180,7 @@ Leetcode and GFG solutions
 | [0543-diameter-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
@@ -1524,6 +1525,7 @@ Leetcode and GFG solutions
 | [0543-diameter-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -1571,6 +1573,7 @@ Leetcode and GFG solutions
 | [0543-diameter-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
