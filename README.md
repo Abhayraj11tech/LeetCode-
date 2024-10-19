@@ -19,6 +19,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
+| [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
@@ -186,6 +187,7 @@ Leetcode and GFG solutions
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
@@ -780,6 +782,7 @@ Leetcode and GFG solutions
 | [0043-multiply-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
