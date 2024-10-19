@@ -211,6 +211,7 @@ Leetcode and GFG solutions
 | [0680-valid-palindrome-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0686-repeated-string-match) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
+| [0742-to-lower-case](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
