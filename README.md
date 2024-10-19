@@ -195,6 +195,7 @@ Leetcode and GFG solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0482-license-key-formatting](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0520-detect-capital) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0541-reverse-string-ii) |
