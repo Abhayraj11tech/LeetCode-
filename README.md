@@ -193,6 +193,7 @@ Leetcode and GFG solutions
 | [0434-number-of-segments-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
