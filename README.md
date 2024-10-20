@@ -215,6 +215,7 @@ Leetcode and GFG solutions
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0782-jewels-and-stones) |
 | [0807-custom-sort-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0807-custom-sort-string) |
+| [0812-rotate-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
@@ -1482,6 +1483,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0686-repeated-string-match) |
+| [0812-rotate-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
