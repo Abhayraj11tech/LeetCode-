@@ -1235,6 +1235,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -1256,6 +1257,7 @@ Leetcode and GFG solutions
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -1599,6 +1601,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
@@ -1652,6 +1655,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
