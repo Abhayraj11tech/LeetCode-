@@ -214,6 +214,7 @@ Leetcode and GFG solutions
 | [0742-to-lower-case](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0807-custom-sort-string) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
@@ -1003,6 +1004,7 @@ Leetcode and GFG solutions
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0807-custom-sort-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
@@ -1110,6 +1112,7 @@ Leetcode and GFG solutions
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0782-jewels-and-stones) |
+| [0807-custom-sort-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0807-custom-sort-string) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
