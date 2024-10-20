@@ -492,6 +492,7 @@ Leetcode and GFG solutions
 | [1137-height-checker](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1137-height-checker) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
 | [1168-duplicate-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1168-duplicate-zeros) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1210-mean-of-array-after-removing-some-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1210-mean-of-array-after-removing-some-elements) |
 | [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1221-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1221-element-appearing-more-than-25-in-sorted-array) |
@@ -1130,6 +1131,7 @@ Leetcode and GFG solutions
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
@@ -1233,6 +1235,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
 |  |
@@ -1596,6 +1599,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Search Tree
 |  |
@@ -1648,5 +1652,6 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 <!---LeetCode Topics End-->
