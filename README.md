@@ -126,6 +126,7 @@ Leetcode and GFG solutions
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0874-backspace-string-compare) |
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
 | [0916-decoded-string-at-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0916-decoded-string-at-index) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
@@ -223,6 +224,7 @@ Leetcode and GFG solutions
 | [0851-goat-latin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0857-positions-of-large-groups) |
 | [0858-masking-personal-information](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0858-masking-personal-information) |
+| [0874-backspace-string-compare](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0874-backspace-string-compare) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
@@ -810,6 +812,7 @@ Leetcode and GFG solutions
 | [0657-robot-return-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
@@ -949,6 +952,7 @@ Leetcode and GFG solutions
 | [0841-shortest-distance-to-a-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
+| [0874-backspace-string-compare](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0874-backspace-string-compare) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
