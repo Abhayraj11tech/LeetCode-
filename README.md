@@ -222,6 +222,7 @@ Leetcode and GFG solutions
 | [0841-shortest-distance-to-a-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0851-goat-latin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0857-positions-of-large-groups) |
+| [0858-masking-personal-information](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0858-masking-personal-information) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
