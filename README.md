@@ -220,6 +220,7 @@ Leetcode and GFG solutions
 | [0824-number-of-lines-to-write-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0841-shortest-distance-to-a-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0841-shortest-distance-to-a-character) |
+| [0851-goat-latin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0851-goat-latin) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
