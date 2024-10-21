@@ -1634,6 +1634,7 @@ Leetcode and GFG solutions
 | [1450-delete-leaves-with-a-given-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1731-even-odd-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
@@ -1694,6 +1695,7 @@ Leetcode and GFG solutions
 | [1450-delete-leaves-with-a-given-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1731-even-odd-tree) |
+| [2384-root-equals-sum-of-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
