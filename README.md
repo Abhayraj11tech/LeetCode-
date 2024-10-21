@@ -102,6 +102,7 @@ Leetcode and GFG solutions
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3374-count-alternating-subarrays) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -857,6 +858,7 @@ Leetcode and GFG solutions
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
