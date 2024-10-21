@@ -235,6 +235,7 @@ Leetcode and GFG solutions
 | [0916-decoded-string-at-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0916-decoded-string-at-index) |
 | [0953-reverse-only-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0961-long-pressed-name](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0961-long-pressed-name) |
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0981-delete-columns-to-make-sorted) |
@@ -968,6 +969,7 @@ Leetcode and GFG solutions
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
+| [0961-long-pressed-name](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
