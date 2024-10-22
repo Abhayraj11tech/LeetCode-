@@ -12,6 +12,7 @@ Leetcode and GFG solutions
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
@@ -178,6 +179,7 @@ Leetcode and GFG solutions
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
@@ -1110,6 +1112,7 @@ Leetcode and GFG solutions
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0217-contains-duplicate) |
