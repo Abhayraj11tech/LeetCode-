@@ -205,6 +205,7 @@ Leetcode and GFG solutions
 | [0434-number-of-segments-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0520-detect-capital) |
@@ -1536,6 +1537,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
