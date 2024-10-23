@@ -268,6 +268,7 @@ Leetcode and GFG solutions
 | [1260-day-of-the-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1260-day-of-the-year) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
@@ -336,6 +337,7 @@ Leetcode and GFG solutions
 | [1033-broken-calculator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1033-broken-calculator) |
 | [1095-two-city-scheduling](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1095-two-city-scheduling) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1448-maximum-69-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
@@ -1401,6 +1403,7 @@ Leetcode and GFG solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
