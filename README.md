@@ -268,7 +268,6 @@ Leetcode and GFG solutions
 | [1205-defanging-an-ip-address](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1274-number-of-days-between-two-dates) |
-| [1283-reformat-date](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1297-maximum-number-of-balloons) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
@@ -282,6 +281,7 @@ Leetcode and GFG solutions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1542-consecutive-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1542-consecutive-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1561-rearrange-words-in-a-sentence) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1651-shuffle-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -1019,6 +1019,7 @@ Leetcode and GFG solutions
 | [1168-duplicate-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -1579,6 +1580,7 @@ Leetcode and GFG solutions
 | [0812-rotate-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0812-rotate-string) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
 | [1524-string-matching-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Queue
