@@ -248,6 +248,7 @@ Leetcode and GFG solutions
 | [0886-score-of-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0886-score-of-parentheses) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
 | [0916-decoded-string-at-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0916-decoded-string-at-index) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0953-reverse-only-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0961-long-pressed-name](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0961-long-pressed-name) |
@@ -1172,6 +1173,7 @@ Leetcode and GFG solutions
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -1393,6 +1395,7 @@ Leetcode and GFG solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
