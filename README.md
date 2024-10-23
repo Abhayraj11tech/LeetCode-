@@ -255,6 +255,7 @@ Leetcode and GFG solutions
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0981-delete-columns-to-make-sorted) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1078-remove-outermost-parentheses) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
@@ -511,6 +512,7 @@ Leetcode and GFG solutions
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [0981-delete-columns-to-make-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0981-delete-columns-to-make-sorted) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
@@ -1176,6 +1178,7 @@ Leetcode and GFG solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
+| [0990-verifying-an-alien-dictionary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
