@@ -295,6 +295,7 @@ Leetcode and GFG solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -360,6 +361,7 @@ Leetcode and GFG solutions
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2066-add-minimum-number-of-rungs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
