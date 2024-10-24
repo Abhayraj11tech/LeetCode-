@@ -315,6 +315,7 @@ Leetcode and GFG solutions
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -373,6 +374,7 @@ Leetcode and GFG solutions
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -1278,6 +1280,7 @@ Leetcode and GFG solutions
 | [1656-count-good-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
