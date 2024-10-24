@@ -74,6 +74,7 @@ Leetcode and GFG solutions
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2284-smallest-value-of-the-rearranged-number) |
@@ -305,6 +306,7 @@ Leetcode and GFG solutions
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -852,6 +854,7 @@ Leetcode and GFG solutions
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
@@ -1544,6 +1547,7 @@ Leetcode and GFG solutions
 | ------- |
 | [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
