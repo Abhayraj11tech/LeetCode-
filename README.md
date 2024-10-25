@@ -279,6 +279,7 @@ Leetcode and GFG solutions
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
 | [1524-string-matching-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1524-string-matching-in-an-array) |
 | [1532-reformat-the-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1532-reformat-the-string) |
@@ -1216,6 +1217,7 @@ Leetcode and GFG solutions
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
@@ -1575,6 +1577,7 @@ Leetcode and GFG solutions
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
