@@ -300,6 +300,7 @@ Leetcode and GFG solutions
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1797-goal-parser-interpretation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1812-reformat-phone-number) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
