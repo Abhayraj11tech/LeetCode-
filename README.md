@@ -294,6 +294,7 @@ Leetcode and GFG solutions
 | [1666-make-the-string-great](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1666-make-the-string-great) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1714-rearrange-spaces-between-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1714-rearrange-spaces-between-words) |
 | [1751-slowest-key](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
