@@ -295,6 +295,7 @@ Leetcode and GFG solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1714-rearrange-spaces-between-words) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -1230,6 +1231,7 @@ Leetcode and GFG solutions
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
