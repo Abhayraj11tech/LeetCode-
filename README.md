@@ -273,6 +273,7 @@ Leetcode and GFG solutions
 | [1205-defanging-an-ip-address](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1205-defanging-an-ip-address) |
 | [1238-alphabet-board-path](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1238-alphabet-board-path) |
 | [1260-day-of-the-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1260-day-of-the-year) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1274-number-of-days-between-two-dates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1274-number-of-days-between-two-dates) |
 | [1283-reformat-date](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1283-reformat-date) |
 | [1297-maximum-number-of-balloons](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1297-maximum-number-of-balloons) |
@@ -1240,6 +1241,7 @@ Leetcode and GFG solutions
 | [1217-relative-sort-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1217-relative-sort-array) |
 | [1238-alphabet-board-path](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1238-alphabet-board-path) |
 | [1256-rank-transform-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1256-rank-transform-of-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1297-maximum-number-of-balloons](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
