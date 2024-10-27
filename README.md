@@ -160,6 +160,7 @@ Leetcode and GFG solutions
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1666-make-the-string-great](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1666-make-the-string-great) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
@@ -313,6 +314,7 @@ Leetcode and GFG solutions
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -914,6 +916,7 @@ Leetcode and GFG solutions
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2058-concatenation-of-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
