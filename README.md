@@ -341,6 +341,7 @@ Leetcode and GFG solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
