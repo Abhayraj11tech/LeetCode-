@@ -330,6 +330,7 @@ Leetcode and GFG solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
