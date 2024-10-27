@@ -320,6 +320,7 @@ Leetcode and GFG solutions
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2173-number-of-valid-words-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
