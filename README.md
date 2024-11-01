@@ -295,6 +295,7 @@ Leetcode and GFG solutions
 | [1542-consecutive-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1542-consecutive-characters) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1651-shuffle-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1651-shuffle-string) |
@@ -1621,6 +1622,7 @@ Leetcode and GFG solutions
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
