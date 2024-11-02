@@ -311,6 +311,7 @@ Leetcode and GFG solutions
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1797-goal-parser-interpretation) |
 | [1812-reformat-phone-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1812-reformat-phone-number) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
@@ -1487,6 +1488,7 @@ Leetcode and GFG solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
