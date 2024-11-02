@@ -320,6 +320,7 @@ Leetcode and GFG solutions
 | [1894-merge-strings-alternately](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
@@ -1636,6 +1637,7 @@ Leetcode and GFG solutions
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [1873-longest-nice-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1873-longest-nice-substring) |
+| [1967-longest-substring-of-all-vowels-in-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
