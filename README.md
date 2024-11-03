@@ -327,6 +327,7 @@ Leetcode and GFG solutions
 | [1970-sorting-the-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-maximum-value-after-insertion](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2011-maximum-value-after-insertion) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
