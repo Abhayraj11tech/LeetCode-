@@ -326,6 +326,7 @@ Leetcode and GFG solutions
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2011-maximum-value-after-insertion](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2011-maximum-value-after-insertion) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
@@ -1286,6 +1287,7 @@ Leetcode and GFG solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
@@ -1508,6 +1510,7 @@ Leetcode and GFG solutions
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
