@@ -320,6 +320,7 @@ Leetcode and GFG solutions
 | [1894-merge-strings-alternately](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1894-merge-strings-alternately) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1967-longest-substring-of-all-vowels-in-order) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -1286,6 +1287,7 @@ Leetcode and GFG solutions
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -1509,6 +1511,7 @@ Leetcode and GFG solutions
 | [1823-determine-if-string-halves-are-alike](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
