@@ -324,6 +324,7 @@ Leetcode and GFG solutions
 | [1933-number-of-different-integers-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
 | [1967-longest-substring-of-all-vowels-in-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1967-longest-substring-of-all-vowels-in-order) |
+| [1970-sorting-the-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2010-check-if-word-equals-summation-of-two-words) |
@@ -1175,6 +1176,7 @@ Leetcode and GFG solutions
 | [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1961-maximum-ice-cream-bars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1961-maximum-ice-cream-bars) |
+| [1970-sorting-the-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1970-sorting-the-sentence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
