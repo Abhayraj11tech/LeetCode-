@@ -365,6 +365,7 @@ Leetcode and GFG solutions
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
+| [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -429,6 +430,7 @@ Leetcode and GFG solutions
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
@@ -1317,6 +1319,7 @@ Leetcode and GFG solutions
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2566-number-of-unequal-triplets-in-array) |
