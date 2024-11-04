@@ -349,6 +349,7 @@ Leetcode and GFG solutions
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -1303,6 +1304,7 @@ Leetcode and GFG solutions
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -1526,6 +1528,7 @@ Leetcode and GFG solutions
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
