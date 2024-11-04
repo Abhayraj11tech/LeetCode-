@@ -365,6 +365,7 @@ Leetcode and GFG solutions
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
@@ -916,6 +917,7 @@ Leetcode and GFG solutions
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
@@ -962,6 +964,7 @@ Leetcode and GFG solutions
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
