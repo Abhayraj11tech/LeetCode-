@@ -383,6 +383,7 @@ Leetcode and GFG solutions
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2755-extra-characters-in-a-string) |
+| [2825-minimize-string-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2886-faulty-keyboard) |
@@ -1345,6 +1346,7 @@ Leetcode and GFG solutions
 | [2724-convert-an-array-into-a-2d-array-with-conditions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2724-convert-an-array-into-a-2d-array-with-conditions) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2755-extra-characters-in-a-string) |
 | [2777-find-the-distinct-difference-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2777-find-the-distinct-difference-array) |
+| [2825-minimize-string-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2825-minimize-string-length) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
