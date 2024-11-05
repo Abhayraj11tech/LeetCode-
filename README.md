@@ -362,6 +362,7 @@ Leetcode and GFG solutions
 | [2292-counting-words-with-a-given-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
@@ -431,6 +432,7 @@ Leetcode and GFG solutions
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2345-minimum-number-of-operations-to-convert-time](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
