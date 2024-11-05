@@ -385,6 +385,7 @@ Leetcode and GFG solutions
 | [2755-extra-characters-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
+| [2886-faulty-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2886-faulty-keyboard) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -983,6 +984,7 @@ Leetcode and GFG solutions
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [2834-relocate-marbles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2834-relocate-marbles) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2886-faulty-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2886-faulty-keyboard) |
 | [3164-last-visited-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3164-last-visited-integers) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
