@@ -388,6 +388,7 @@ Leetcode and GFG solutions
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2886-faulty-keyboard) |
+| [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
