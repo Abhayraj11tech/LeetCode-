@@ -103,6 +103,7 @@ Leetcode and GFG solutions
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3215-matrix-similarity-after-cyclic-shifts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3215-matrix-similarity-after-cyclic-shifts) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -404,6 +405,7 @@ Leetcode and GFG solutions
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3194-find-words-containing-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3207-make-three-strings-equal) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1384,6 +1386,7 @@ Leetcode and GFG solutions
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -1411,6 +1414,7 @@ Leetcode and GFG solutions
 | [2844-sum-of-squares-of-special-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
@@ -1507,6 +1511,7 @@ Leetcode and GFG solutions
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 ## Bit Manipulation
@@ -1643,6 +1648,7 @@ Leetcode and GFG solutions
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
 ## Heap (Priority Queue)
 |  |
