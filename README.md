@@ -369,6 +369,7 @@ Leetcode and GFG solutions
 | [2365-percentage-of-letter-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2365-percentage-of-letter-in-string) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
@@ -1336,6 +1337,7 @@ Leetcode and GFG solutions
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
@@ -1562,6 +1564,7 @@ Leetcode and GFG solutions
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
