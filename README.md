@@ -372,6 +372,7 @@ Leetcode and GFG solutions
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
+| [2391-strong-password-checker-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2391-strong-password-checker-ii) |
 | [2406-decode-the-message](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
