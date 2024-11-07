@@ -372,6 +372,7 @@ Leetcode and GFG solutions
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2492-length-of-the-longest-alphabetical-continuous-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2492-length-of-the-longest-alphabetical-continuous-substring) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
@@ -749,6 +750,7 @@ Leetcode and GFG solutions
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
+| [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1343,6 +1345,7 @@ Leetcode and GFG solutions
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
 | [2487-optimal-partition-of-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
 | [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
