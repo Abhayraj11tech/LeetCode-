@@ -371,7 +371,7 @@ Leetcode and GFG solutions
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2373-apply-discount-to-prices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2373-apply-discount-to-prices) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
-| [2427-first-letter-to-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2427-first-letter-to-appear-twice) |
+| [2406-decode-the-message](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2406-decode-the-message) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2470-removing-stars-from-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2470-removing-stars-from-a-string) |
@@ -1345,8 +1345,8 @@ Leetcode and GFG solutions
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
+| [2406-decode-the-message](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2406-decode-the-message) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
-| [2427-first-letter-to-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1521,7 +1521,6 @@ Leetcode and GFG solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
-| [2427-first-letter-to-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2427-first-letter-to-appear-twice) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
@@ -1575,7 +1574,6 @@ Leetcode and GFG solutions
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2421-maximum-number-of-pairs-in-array) |
-| [2427-first-letter-to-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
