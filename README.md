@@ -411,6 +411,7 @@ Leetcode and GFG solutions
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -1391,6 +1392,7 @@ Leetcode and GFG solutions
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -1731,6 +1733,7 @@ Leetcode and GFG solutions
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
 ## Hash Function
 |  |
