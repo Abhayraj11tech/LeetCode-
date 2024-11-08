@@ -419,6 +419,7 @@ Leetcode and GFG solutions
 | [3451-string-compression-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
@@ -1744,6 +1745,7 @@ Leetcode and GFG solutions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Function
 |  |
 | ------- |
