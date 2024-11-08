@@ -387,6 +387,7 @@ Leetcode and GFG solutions
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2536-determine-if-two-events-have-conflict) |
 | [2547-odd-string-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2547-odd-string-difference) |
+| [2580-circular-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
