@@ -391,7 +391,6 @@ Leetcode and GFG solutions
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
 | [2723-find-the-longest-balanced-substring-of-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2723-find-the-longest-balanced-substring-of-a-binary-string) |
@@ -786,7 +785,6 @@ Leetcode and GFG solutions
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2639-separate-the-digits-in-an-array) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2675-find-the-width-of-columns-of-a-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2675-find-the-width-of-columns-of-a-grid) |
@@ -1601,7 +1599,6 @@ Leetcode and GFG solutions
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
-| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
