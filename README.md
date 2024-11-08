@@ -398,6 +398,7 @@ Leetcode and GFG solutions
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2755-extra-characters-in-a-string) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2816-lexicographically-smallest-palindrome) |
+| [2819-remove-trailing-zeros-from-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2825-minimize-string-length](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2825-minimize-string-length) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
