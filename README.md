@@ -417,6 +417,7 @@ Leetcode and GFG solutions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3451-string-compression-iii) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -479,6 +480,7 @@ Leetcode and GFG solutions
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3334-apple-redistribution-into-boxes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3334-apple-redistribution-into-boxes) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Monotonic Stack
 |  |
 | ------- |
