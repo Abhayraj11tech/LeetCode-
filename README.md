@@ -418,6 +418,7 @@ Leetcode and GFG solutions
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3451-string-compression-iii) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 ## Greedy
 |  |
 | ------- |
@@ -1025,6 +1026,7 @@ Leetcode and GFG solutions
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
+| [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Data Stream
 |  |
