@@ -1964,4 +1964,8 @@ Leetcode and GFG solutions
 | [2384-root-equals-sum-of-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
