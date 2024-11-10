@@ -117,6 +117,7 @@ Leetcode and GFG solutions
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -421,6 +422,7 @@ Leetcode and GFG solutions
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Greedy
 |  |
 | ------- |
