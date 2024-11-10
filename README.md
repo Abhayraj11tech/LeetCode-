@@ -418,6 +418,7 @@ Leetcode and GFG solutions
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3451-string-compression-iii) |
 | [3468-find-the-encrypted-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3468-find-the-encrypted-string) |
@@ -1032,6 +1033,7 @@ Leetcode and GFG solutions
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3447-clear-digits) |
 | [3450-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3450-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
