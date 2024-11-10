@@ -417,8 +417,8 @@ Leetcode and GFG solutions
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3396-valid-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3396-valid-word) |
-| [3408-count-the-number-of-special-characters-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 | [3447-clear-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3447-clear-digits) |
@@ -1414,7 +1414,6 @@ Leetcode and GFG solutions
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
-| [3408-count-the-number-of-special-characters-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -1441,6 +1440,7 @@ Leetcode and GFG solutions
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 | [3398-make-a-square-with-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3398-make-a-square-with-the-same-color) |
 ## Depth-First Search
 |  |
