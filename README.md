@@ -431,6 +431,7 @@ Leetcode and GFG solutions
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3636-check-balanced-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3636-check-balanced-string) |
 ## Greedy
 |  |
@@ -1427,6 +1428,7 @@ Leetcode and GFG solutions
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3519-find-the-number-of-winning-players](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3519-find-the-number-of-winning-players) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Enumeration
 |  |
@@ -1764,6 +1766,7 @@ Leetcode and GFG solutions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
+| [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
 ## Hash Function
 |  |
 | ------- |
