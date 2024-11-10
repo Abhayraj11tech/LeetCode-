@@ -405,6 +405,7 @@ Leetcode and GFG solutions
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2881-split-strings-by-separator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2881-split-strings-by-separator) |
 | [2886-faulty-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2886-faulty-keyboard) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -838,6 +839,7 @@ Leetcode and GFG solutions
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2902-max-pair-sum-in-an-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
