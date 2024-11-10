@@ -1967,5 +1967,6 @@ Leetcode and GFG solutions
 ## Database
 |  |
 | ------- |
+| [1827-invalid-tweets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
