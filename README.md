@@ -418,6 +418,7 @@ Leetcode and GFG solutions
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3412-permutation-difference-between-two-strings) |
 | [3451-string-compression-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3451-string-compression-iii) |
+| [3468-find-the-encrypted-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3468-find-the-encrypted-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
