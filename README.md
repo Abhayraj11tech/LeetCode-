@@ -431,6 +431,7 @@ Leetcode and GFG solutions
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
+| [3636-check-balanced-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3636-check-balanced-string) |
 ## Greedy
 |  |
 | ------- |
