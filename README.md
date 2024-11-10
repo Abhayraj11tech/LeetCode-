@@ -1967,6 +1967,7 @@ Leetcode and GFG solutions
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0197-rising-temperature) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
