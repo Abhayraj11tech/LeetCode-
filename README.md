@@ -40,6 +40,7 @@ Leetcode and GFG solutions
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
+| [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0910-nth-magical-number) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
@@ -1223,6 +1224,7 @@ Leetcode and GFG solutions
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0807-custom-sort-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0807-custom-sort-string) |
 | [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
+| [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
@@ -1339,6 +1341,7 @@ Leetcode and GFG solutions
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
+| [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
@@ -1442,6 +1445,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
+| [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1602,6 +1606,7 @@ Leetcode and GFG solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
+| [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
