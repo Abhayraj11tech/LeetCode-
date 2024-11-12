@@ -432,6 +432,7 @@ Leetcode and GFG solutions
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3617-find-the-original-typed-string-i) |
 | [3636-check-balanced-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3636-check-balanced-string) |
 ## Greedy
 |  |
