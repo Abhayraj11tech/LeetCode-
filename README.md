@@ -12,6 +12,7 @@ Leetcode and GFG solutions
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
@@ -963,6 +964,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1667,6 +1669,7 @@ Leetcode and GFG solutions
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 ## Bucket Sort
 |  |
