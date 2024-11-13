@@ -8,6 +8,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0007-reverse-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
@@ -1567,6 +1568,7 @@ Leetcode and GFG solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
