@@ -15,6 +15,7 @@ Leetcode and GFG solutions
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
@@ -1135,6 +1136,7 @@ Leetcode and GFG solutions
 | [0165-compare-version-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0344-reverse-string) |
@@ -1307,6 +1309,7 @@ Leetcode and GFG solutions
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0229-majority-element-ii) |
