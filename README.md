@@ -51,6 +51,7 @@ Leetcode and GFG solutions
 | [0910-nth-magical-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0910-nth-magical-number) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
@@ -463,6 +464,7 @@ Leetcode and GFG solutions
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
+| [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
@@ -650,6 +652,7 @@ Leetcode and GFG solutions
 | [0932-monotonic-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0932-monotonic-array) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
+| [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
@@ -1242,6 +1245,7 @@ Leetcode and GFG solutions
 | [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
+| [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
