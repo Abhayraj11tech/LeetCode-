@@ -74,6 +74,7 @@ Leetcode and GFG solutions
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1448-maximum-69-number) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -707,6 +708,7 @@ Leetcode and GFG solutions
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -1385,6 +1387,7 @@ Leetcode and GFG solutions
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
@@ -1561,6 +1564,7 @@ Leetcode and GFG solutions
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
@@ -1599,6 +1603,7 @@ Leetcode and GFG solutions
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
