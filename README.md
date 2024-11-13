@@ -30,6 +30,7 @@ Leetcode and GFG solutions
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0492-construct-the-rectangle) |
@@ -230,6 +231,7 @@ Leetcode and GFG solutions
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
@@ -1330,6 +1332,7 @@ Leetcode and GFG solutions
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
