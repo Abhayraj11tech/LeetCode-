@@ -22,6 +22,7 @@ Leetcode and GFG solutions
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0372-super-pow) |
@@ -973,6 +974,7 @@ Leetcode and GFG solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
 | [0647-palindromic-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0647-palindromic-substrings) |
@@ -1516,6 +1518,7 @@ Leetcode and GFG solutions
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0530-minimum-absolute-difference-in-bst) |
