@@ -42,6 +42,7 @@ Leetcode and GFG solutions
 | [0564-find-the-closest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0564-find-the-closest-palindrome) |
 | [0593-valid-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0593-valid-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
@@ -939,6 +940,7 @@ Leetcode and GFG solutions
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
@@ -1167,6 +1169,7 @@ Leetcode and GFG solutions
 | [0557-reverse-words-in-a-string-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
