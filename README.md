@@ -26,7 +26,6 @@ Leetcode and GFG solutions
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0368-largest-divisible-subset) |
-| [0371-sum-of-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
@@ -1601,7 +1600,6 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
-| [0371-sum-of-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
