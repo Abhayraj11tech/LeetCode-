@@ -23,6 +23,7 @@ Leetcode and GFG solutions
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
@@ -1856,6 +1857,7 @@ Leetcode and GFG solutions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -1906,6 +1908,7 @@ Leetcode and GFG solutions
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Rolling Hash
 |  |
