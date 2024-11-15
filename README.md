@@ -59,6 +59,7 @@ Leetcode and GFG solutions
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1010-powerful-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1010-powerful-integers) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1018-largest-perimeter-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1018-largest-perimeter-triangle) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
@@ -1379,6 +1380,7 @@ Leetcode and GFG solutions
 | [0965-unique-email-addresses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0965-unique-email-addresses) |
 | [0990-verifying-an-alien-dictionary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0990-verifying-an-alien-dictionary) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-powerful-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1010-powerful-integers) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
@@ -1479,6 +1481,7 @@ Leetcode and GFG solutions
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
 | [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
+| [1010-powerful-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1010-powerful-integers) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
 | [1656-count-good-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
