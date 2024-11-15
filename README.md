@@ -37,6 +37,7 @@ Leetcode and GFG solutions
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0441-arranging-coins](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0492-construct-the-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0492-construct-the-rectangle) |
@@ -944,6 +945,7 @@ Leetcode and GFG solutions
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
