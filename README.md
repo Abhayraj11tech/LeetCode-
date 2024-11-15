@@ -24,6 +24,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
+| [0342-power-of-four](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0342-power-of-four) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0368-largest-divisible-subset) |
@@ -1603,6 +1604,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0342-power-of-four](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -1880,6 +1882,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0342-power-of-four](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
