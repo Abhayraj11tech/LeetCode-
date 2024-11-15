@@ -52,6 +52,7 @@ Leetcode and GFG solutions
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
+| [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0910-nth-magical-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0910-nth-magical-number) |
@@ -651,6 +652,7 @@ Leetcode and GFG solutions
 | [0841-shortest-distance-to-a-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0852-friends-of-appropriate-ages) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1098,6 +1100,7 @@ Leetcode and GFG solutions
 | [0566-reshape-the-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
+| [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
 | [0898-transpose-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0898-transpose-matrix) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
@@ -1373,6 +1376,7 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0822-unique-morse-code-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0837-most-common-word) |
+| [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
 | [0889-buddy-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0889-buddy-strings) |
 | [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0920-uncommon-words-from-two-sentences) |
