@@ -29,6 +29,7 @@ Leetcode and GFG solutions
 | [0372-super-pow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0372-super-pow) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
+| [0400-nth-digit](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
@@ -936,6 +937,7 @@ Leetcode and GFG solutions
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
