@@ -52,6 +52,7 @@ Leetcode and GFG solutions
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
+| [0804-rotated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0804-rotated-digits) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
 | [0866-rectangle-overlap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
@@ -1005,6 +1006,7 @@ Leetcode and GFG solutions
 | [0647-palindromic-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0647-palindromic-substrings) |
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
+| [0804-rotated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0804-rotated-digits) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
