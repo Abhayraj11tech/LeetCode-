@@ -53,6 +53,7 @@ Leetcode and GFG solutions
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0856-consecutive-numbers-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0856-consecutive-numbers-sum) |
+| [0866-rectangle-overlap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0866-rectangle-overlap) |
 | [0870-magic-squares-in-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0870-magic-squares-in-grid) |
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
 | [0900-reordered-power-of-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0900-reordered-power-of-2) |
@@ -1784,6 +1785,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0593-valid-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0593-valid-square) |
+| [0866-rectangle-overlap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0866-rectangle-overlap) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
