@@ -5,12 +5,17 @@ class Solution {
         }
         else{ 
           List<Integer> sol = new ArrayList<>();
-        int jumbo = (tomatoSlices - 2*cheeseSlices)/2;
-        int small = cheeseSlices - jumbo;
-        sol.add(jumbo);
-        sol.add(small);
+
+        for (int jumbo = 0; jumbo <= cheeseSlices; ++jumbo) {
+            int small = cheeseSlices - jumbo;
+            
+            if (4 * jumbo + 2 * small == tomatoSlices) {
+                sol.add(jumbo);
+                sol.add(small);
+            }
+        }
+
         return sol;
         }
-        
     }
 }
