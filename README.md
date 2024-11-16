@@ -69,6 +69,7 @@ Leetcode and GFG solutions
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1033-broken-calculator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1033-broken-calculator) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
+| [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -1007,6 +1008,7 @@ Leetcode and GFG solutions
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0804-rotated-digits) |
+| [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
