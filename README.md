@@ -90,6 +90,7 @@ Leetcode and GFG solutions
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1642-water-bottles) |
@@ -739,6 +740,7 @@ Leetcode and GFG solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1651-shuffle-string) |
@@ -1019,6 +1021,7 @@ Leetcode and GFG solutions
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -1601,6 +1604,7 @@ Leetcode and GFG solutions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1833-find-the-highest-altitude](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1833-find-the-highest-altitude) |
