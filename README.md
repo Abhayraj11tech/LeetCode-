@@ -102,6 +102,7 @@ Leetcode and GFG solutions
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
@@ -771,6 +772,7 @@ Leetcode and GFG solutions
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1899-count-items-matching-a-rule](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1899-count-items-matching-a-rule) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1944-truncate-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1944-truncate-sentence) |
@@ -1444,6 +1446,7 @@ Leetcode and GFG solutions
 | [1873-longest-nice-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1933-number-of-different-integers-in-a-string) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
@@ -1702,6 +1705,7 @@ Leetcode and GFG solutions
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1925-count-nice-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
