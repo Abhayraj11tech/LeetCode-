@@ -107,6 +107,7 @@ Leetcode and GFG solutions
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2083-three-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -381,6 +382,7 @@ Leetcode and GFG solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -510,6 +512,7 @@ Leetcode and GFG solutions
 | [1994-minimum-number-of-swaps-to-make-the-binary-string-alternating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1994-minimum-number-of-swaps-to-make-the-binary-string-alternating) |
 | [2011-maximum-value-after-insertion](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2011-maximum-value-after-insertion) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
+| [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2066-add-minimum-number-of-rungs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2066-add-minimum-number-of-rungs) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
@@ -1950,6 +1953,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
+| [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Rolling Hash
 |  |
