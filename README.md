@@ -114,6 +114,7 @@ Leetcode and GFG solutions
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -1071,6 +1072,7 @@ Leetcode and GFG solutions
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
