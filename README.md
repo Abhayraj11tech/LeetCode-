@@ -126,6 +126,7 @@ Leetcode and GFG solutions
 | [2496-count-days-spent-together](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2496-count-days-spent-together) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
+| [2556-convert-the-temperature](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2556-convert-the-temperature) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2571-find-the-pivot-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2571-find-the-pivot-integer) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
