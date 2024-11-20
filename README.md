@@ -128,7 +128,6 @@ Leetcode and GFG solutions
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
-| [2608-count-the-digits-that-divide-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2619-categorize-box-according-to-criteria) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
