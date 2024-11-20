@@ -128,6 +128,7 @@ Leetcode and GFG solutions
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2619-categorize-box-according-to-criteria](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2619-categorize-box-according-to-criteria) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
@@ -854,6 +855,7 @@ Leetcode and GFG solutions
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2598-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2598-shortest-distance-to-target-string-in-a-circular-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2631-sort-the-students-by-their-kth-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2631-sort-the-students-by-their-kth-score) |
@@ -1481,6 +1483,7 @@ Leetcode and GFG solutions
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -1775,6 +1778,7 @@ Leetcode and GFG solutions
 | [2546-number-of-subarrays-with-gcd-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2546-number-of-subarrays-with-gcd-equal-to-k) |
 | [2557-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2557-number-of-subarrays-with-lcm-equal-to-k) |
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
+| [2609-distinct-prime-factors-of-product-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2610-closest-prime-numbers-in-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2610-closest-prime-numbers-in-range) |
 | [2722-prime-in-diagonal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2722-prime-in-diagonal) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
