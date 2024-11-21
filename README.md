@@ -158,6 +158,7 @@ Leetcode and GFG solutions
 | [3321-type-of-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3321-type-of-triangle) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 | [3367-find-the-sum-of-encrypted-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3367-find-the-sum-of-encrypted-integers) |
+| [3371-harshad-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3371-harshad-number) |
 | [3373-maximum-prime-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3373-maximum-prime-difference) |
 | [3374-count-alternating-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3374-count-alternating-subarrays) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
