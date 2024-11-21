@@ -147,7 +147,6 @@ Leetcode and GFG solutions
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
-| [2998-count-symmetric-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
 | [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
@@ -1543,7 +1542,6 @@ Leetcode and GFG solutions
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
-| [2998-count-symmetric-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2998-count-symmetric-integers) |
 | [3199-distribute-candies-among-children-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3199-distribute-candies-among-children-i) |
 | [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3221-find-the-peaks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3221-find-the-peaks) |
