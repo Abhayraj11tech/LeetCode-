@@ -574,7 +574,6 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
-| [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
@@ -608,6 +607,7 @@ Leetcode and GFG solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1187,7 +1187,6 @@ Leetcode and GFG solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
-| [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -1209,8 +1208,8 @@ Leetcode and GFG solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
-| [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -1280,7 +1279,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
-| [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0179-largest-number) |
@@ -1905,7 +1904,6 @@ Leetcode and GFG solutions
 ## Merge Sort
 |  |
 | ------- |
-| [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 ## String Matching
