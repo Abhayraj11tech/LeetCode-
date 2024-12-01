@@ -673,6 +673,7 @@ Leetcode and GFG solutions
 | [0665-non-decreasing-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0665-non-decreasing-array) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0682-baseball-game) |
+| [0713-subarray-product-less-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -998,6 +999,7 @@ Leetcode and GFG solutions
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0792-binary-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0792-binary-search) |
@@ -1655,6 +1657,7 @@ Leetcode and GFG solutions
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0878-shifting-letters) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -1898,6 +1901,7 @@ Leetcode and GFG solutions
 | [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
