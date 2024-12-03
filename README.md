@@ -1596,6 +1596,7 @@ Leetcode and GFG solutions
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2034,6 +2035,7 @@ Leetcode and GFG solutions
 | [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -2067,6 +2069,7 @@ Leetcode and GFG solutions
 | [0098-validate-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -2095,6 +2098,7 @@ Leetcode and GFG solutions
 | [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0515-find-largest-value-in-each-tree-row) |
