@@ -14,6 +14,7 @@ Leetcode and GFG solutions
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0171-excel-sheet-column-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0171-excel-sheet-column-number) |
@@ -604,7 +605,6 @@ Leetcode and GFG solutions
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -981,7 +981,7 @@ Leetcode and GFG solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0035-search-insert-position) |
-| [0074-search-a-2d-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0074-search-a-2d-matrix) |
+| [0069-sqrtx](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0162-find-peak-element) |
@@ -993,6 +993,7 @@ Leetcode and GFG solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
@@ -1154,7 +1155,6 @@ Leetcode and GFG solutions
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
-| [0074-search-a-2d-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -2160,4 +2160,8 @@ Leetcode and GFG solutions
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
