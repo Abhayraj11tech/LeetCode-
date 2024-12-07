@@ -51,7 +51,6 @@ Leetcode and GFG solutions
 | [0628-maximum-product-of-three-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
 | [0790-global-and-local-inversions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0790-global-and-local-inversions) |
 | [0804-rotated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0804-rotated-digits) |
@@ -1006,7 +1005,6 @@ Leetcode and GFG solutions
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
-| [0668-kth-smallest-number-in-multiplication-table](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0755-reach-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0755-reach-a-number) |
