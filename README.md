@@ -864,6 +864,7 @@ Leetcode and GFG solutions
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
 | [2502-sort-the-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2502-sort-the-people) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2536-determine-if-two-events-have-conflict](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2536-determine-if-two-events-have-conflict) |
@@ -1024,6 +1025,7 @@ Leetcode and GFG solutions
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2634-minimum-common-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
@@ -1038,6 +1040,7 @@ Leetcode and GFG solutions
 | [0456-132-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [2447-merge-similar-items](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2447-merge-similar-items) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 ## Dynamic Programming
@@ -1218,6 +1221,7 @@ Leetcode and GFG solutions
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [1873-longest-nice-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1873-longest-nice-substring) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1951,6 +1955,7 @@ Leetcode and GFG solutions
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 ## String Matching
 |  |
 | ------- |
@@ -2016,6 +2021,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
@@ -2024,6 +2030,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0493-reverse-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0493-reverse-pairs) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
+| [2513-number-of-pairs-satisfying-inequality](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2513-number-of-pairs-satisfying-inequality) |
 | [2765-make-array-empty](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2765-make-array-empty) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 ## Game Theory
