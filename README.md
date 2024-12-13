@@ -1056,6 +1056,7 @@ Leetcode and GFG solutions
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
+| [0338-counting-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
@@ -1726,6 +1727,7 @@ Leetcode and GFG solutions
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
+| [0338-counting-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
