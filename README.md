@@ -1722,6 +1722,7 @@ Leetcode and GFG solutions
 | [0137-single-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
