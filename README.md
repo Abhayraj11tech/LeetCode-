@@ -1740,6 +1740,7 @@ Leetcode and GFG solutions
 | [0397-integer-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0461-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0477-total-hamming-distance) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
