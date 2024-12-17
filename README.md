@@ -594,7 +594,7 @@ Leetcode and GFG solutions
 | [0001-two-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0031-next-permutation) |
@@ -1235,7 +1235,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0011-container-with-most-water) |
-| [0015-3sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -1312,7 +1312,7 @@ Leetcode and GFG solutions
 ## Sorting
 |  |
 | ------- |
-| [0015-3sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
