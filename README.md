@@ -184,6 +184,7 @@ Leetcode and GFG solutions
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0402-remove-k-digits) |
@@ -580,6 +581,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
@@ -1248,6 +1250,7 @@ Leetcode and GFG solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0344-reverse-string) |
@@ -2033,6 +2036,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
