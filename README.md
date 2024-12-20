@@ -710,6 +710,7 @@ Leetcode and GFG solutions
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
 | [0928-surface-area-of-3d-shapes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0928-surface-area-of-3d-shapes) |
 | [0932-monotonic-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0932-monotonic-array) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0941-sort-array-by-parity](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0944-smallest-range-i) |
 | [0946-smallest-range-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0946-smallest-range-ii) |
@@ -1074,6 +1075,7 @@ Leetcode and GFG solutions
 | [0650-2-keys-keyboard](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0804-rotated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0804-rotated-digits) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
@@ -1760,6 +1762,7 @@ Leetcode and GFG solutions
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
 | [0861-flipping-an-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0861-flipping-an-image) |
 | [0899-binary-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0899-binary-gap) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
