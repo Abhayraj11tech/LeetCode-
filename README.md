@@ -583,7 +583,6 @@ Leetcode and GFG solutions
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
-| [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0908-middle-of-the-linked-list) |
@@ -1265,7 +1264,6 @@ Leetcode and GFG solutions
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
-| [0528-swapping-nodes-in-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0556-next-greater-element-iii) |
