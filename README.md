@@ -587,7 +587,6 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -870,6 +869,7 @@ Leetcode and GFG solutions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2447-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1301,7 +1301,6 @@ Leetcode and GFG solutions
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
-| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -1309,6 +1308,7 @@ Leetcode and GFG solutions
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
 | [2561-number-of-distinct-averages](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2561-number-of-distinct-averages) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -1551,6 +1551,7 @@ Leetcode and GFG solutions
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
@@ -1610,6 +1611,7 @@ Leetcode and GFG solutions
 | [2083-three-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
