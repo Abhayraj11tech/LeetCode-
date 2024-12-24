@@ -733,6 +733,7 @@ Leetcode and GFG solutions
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1087-longest-arithmetic-subsequence) |
@@ -1777,6 +1778,7 @@ Leetcode and GFG solutions
 | [0899-binary-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0899-binary-gap) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0994-prison-cells-after-n-days](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0994-prison-cells-after-n-days) |
+| [1071-binary-prefix-divisible-by-5](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
