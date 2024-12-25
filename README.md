@@ -831,7 +831,6 @@ Leetcode and GFG solutions
 | [2067-maximum-number-of-points-with-cost](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
-| [2102-find-the-middle-index-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2102-find-the-middle-index-in-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -1737,7 +1736,6 @@ Leetcode and GFG solutions
 | [1983-maximum-population-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1983-maximum-population-year) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
-| [2102-find-the-middle-index-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2342-minimum-average-difference) |
 | [2571-find-the-pivot-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2571-find-the-pivot-integer) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
