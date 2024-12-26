@@ -1793,6 +1793,7 @@ Leetcode and GFG solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
