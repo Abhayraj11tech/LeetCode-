@@ -547,6 +547,7 @@ Leetcode and GFG solutions
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2663-distribute-money-to-maximum-children) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2712-find-the-maximum-number-of-marked-indices](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2712-find-the-maximum-number-of-marked-indices) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2756-buy-two-chocolates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2756-buy-two-chocolates) |
@@ -1098,6 +1099,7 @@ Leetcode and GFG solutions
 | [2187-vowels-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2187-vowels-of-all-substrings) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2755-extra-characters-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2755-extra-characters-in-a-string) |
 | [2784-power-of-heroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2784-power-of-heroes) |
@@ -1800,6 +1802,7 @@ Leetcode and GFG solutions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
+| [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
 | [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
