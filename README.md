@@ -1802,6 +1802,7 @@ Leetcode and GFG solutions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2594-count-pairs-of-similar-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2594-count-pairs-of-similar-strings) |
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
+| [2659-number-of-even-and-odd-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
