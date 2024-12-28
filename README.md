@@ -948,6 +948,7 @@ Leetcode and GFG solutions
 | [3000-minimum-absolute-difference-between-elements-with-constraint](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3000-minimum-absolute-difference-between-elements-with-constraint) |
 | [3031-construct-product-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3031-construct-product-matrix) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3139-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3139-subarrays-distinct-element-sum-of-squares-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -1600,6 +1601,7 @@ Leetcode and GFG solutions
 | [2892-check-if-array-is-good](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2892-check-if-array-is-good) |
 | [2902-max-pair-sum-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2902-max-pair-sum-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3034-points-that-intersect-with-cars) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
@@ -1808,6 +1810,7 @@ Leetcode and GFG solutions
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2659-number-of-even-and-odd-bits) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3044-minimum-operations-to-collect-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3044-minimum-operations-to-collect-elements) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3183-find-the-k-or-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3183-find-the-k-or-of-an-array) |
 | [3192-maximum-xor-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3192-maximum-xor-product) |
