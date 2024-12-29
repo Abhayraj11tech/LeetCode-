@@ -635,6 +635,7 @@ Leetcode and GFG solutions
 | [0136-single-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
@@ -1081,6 +1082,7 @@ Leetcode and GFG solutions
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0338-counting-bits) |
