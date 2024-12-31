@@ -1831,6 +1831,7 @@ Leetcode and GFG solutions
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 ## Counting
 |  |
 | ------- |
