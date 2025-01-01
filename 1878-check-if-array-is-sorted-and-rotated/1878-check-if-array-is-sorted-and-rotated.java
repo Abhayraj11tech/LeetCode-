@@ -1,18 +1,15 @@
 class Solution {
     public boolean check(int[] nums) {
-        int[] copy = Arrays.copyOf(nums, nums.length);
-        Arrays.sort(copy);
-        if (Arrays.equals(copy, nums)) {
-            return true;
-        }
-        Set<Integer> set = new HashSet<>();
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < nums.length; j++) {
-                if (copy[j] == nums[i]) {
-                    set.add((j - i + nums.length) % nums.length);
-                }
+        int count = 0;
+        int n = nums.length;
+        for (int i = 0; i < n; i++) {
+            if (nums[i] > nums[(i + 1) % n]) {
+                count++;
+            }
+            if (count > 1) {
+                return false;
             }
         }
-        return set.size() <= 1;
+        return true;
     }
 }
