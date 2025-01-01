@@ -20,6 +20,7 @@ Leetcode and GFG solutions
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
@@ -1126,6 +1127,7 @@ Leetcode and GFG solutions
 | [0043-multiply-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
@@ -1930,6 +1932,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
