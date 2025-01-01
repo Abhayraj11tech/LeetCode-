@@ -76,6 +76,7 @@ Leetcode and GFG solutions
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
+| [1195-distribute-candies-to-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1195-distribute-candies-to-people) |
 | [1260-day-of-the-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1274-number-of-days-between-two-dates) |
 | [1276-closest-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1276-closest-divisors) |
@@ -1135,6 +1136,7 @@ Leetcode and GFG solutions
 | [0898-transpose-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0898-transpose-matrix) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
+| [1195-distribute-candies-to-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1195-distribute-candies-to-people) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
