@@ -1,35 +1,17 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int count = 0;
-        int sol =0 ;
-        int res =0;
-        if(nums.length==1){
-            res = nums[0];
-        }
-        else{
-        for(int i=0;i<nums.length;i++){
+       for(int i=0;i<nums.length;i++){
+        boolean flag = false;
             for(int j=0;j<nums.length;j++){
-                
-                if(nums[i]!=nums[j] && i!=j){
-                        count++;
-                        sol = nums[i];
+                if(i!=j && nums[j]==nums[i]){
+                    flag = true;
+                    break;
                 }
-                
-
             }
-         
-            if(count==nums.length-1){
-                res = sol;
-                break; 
+            if(!flag){
+                return nums[i];
             }
-            else{
-                count  = 0;
-                sol = 0;
-                res = 0;
-            }
-        }
-        }
-        return res;
-    
+       }
+       return -1;
     }
 }
