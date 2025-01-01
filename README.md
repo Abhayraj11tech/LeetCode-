@@ -173,6 +173,7 @@ Leetcode and GFG solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3568-find-the-key-of-the-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3568-find-the-key-of-the-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Stack
 |  |
@@ -1188,6 +1189,7 @@ Leetcode and GFG solutions
 | [3533-snake-in-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3533-snake-in-matrix) |
 | [3540-hash-divided-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3540-hash-divided-string) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Data Stream
 |  |
 | ------- |
@@ -1832,6 +1834,7 @@ Leetcode and GFG solutions
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Counting
 |  |
 | ------- |
@@ -2104,6 +2107,7 @@ Leetcode and GFG solutions
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Probability and Statistics
 |  |
 | ------- |
