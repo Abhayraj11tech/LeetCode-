@@ -631,6 +631,7 @@ Leetcode and GFG solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1283,6 +1284,7 @@ Leetcode and GFG solutions
 | [0031-next-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
@@ -1364,6 +1366,7 @@ Leetcode and GFG solutions
 | [0016-3sum-closest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
