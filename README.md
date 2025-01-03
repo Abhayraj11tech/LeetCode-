@@ -178,6 +178,7 @@ Leetcode and GFG solutions
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Stack
 |  |
 | ------- |
@@ -1848,6 +1849,7 @@ Leetcode and GFG solutions
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3508-number-of-bit-changes-to-make-two-integers-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3508-number-of-bit-changes-to-make-two-integers-equal) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Counting
 |  |
 | ------- |
