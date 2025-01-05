@@ -144,6 +144,7 @@ Leetcode and GFG solutions
 | [2621-find-xor-beauty-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2621-find-xor-beauty-of-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2630-alternating-digit-sum) |
+| [2645-pass-the-pillow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2645-pass-the-pillow) |
 | [2663-distribute-money-to-maximum-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2663-distribute-money-to-maximum-children) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [2713-find-the-divisibility-array-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2713-find-the-divisibility-array-of-a-string) |
@@ -1181,6 +1182,7 @@ Leetcode and GFG solutions
 | [2595-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2595-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2639-separate-the-digits-in-an-array) |
+| [2645-pass-the-pillow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
