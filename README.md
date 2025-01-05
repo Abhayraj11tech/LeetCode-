@@ -875,6 +875,7 @@ Leetcode and GFG solutions
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -1600,6 +1601,7 @@ Leetcode and GFG solutions
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -1901,6 +1903,7 @@ Leetcode and GFG solutions
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2270-find-all-lonely-numbers-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2331-intersection-of-multiple-arrays) |
