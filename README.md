@@ -191,6 +191,7 @@ Leetcode and GFG solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
@@ -599,6 +600,7 @@ Leetcode and GFG solutions
 | [0023-merge-k-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
+| [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
@@ -1307,6 +1309,7 @@ Leetcode and GFG solutions
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0165-compare-version-numbers) |
@@ -2139,6 +2142,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
