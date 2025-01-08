@@ -294,6 +294,7 @@ Leetcode and GFG solutions
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0537-complex-number-multiplication](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0541-reverse-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0541-reverse-string-ii) |
@@ -695,6 +696,7 @@ Leetcode and GFG solutions
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
@@ -1325,6 +1327,7 @@ Leetcode and GFG solutions
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0556-next-greater-element-iii) |
@@ -1412,6 +1415,7 @@ Leetcode and GFG solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0506-relative-ranks) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0539-minimum-time-difference) |
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
@@ -1537,6 +1541,7 @@ Leetcode and GFG solutions
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0500-keyboard-row) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0523-continuous-subarray-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0560-subarray-sum-equals-k) |
