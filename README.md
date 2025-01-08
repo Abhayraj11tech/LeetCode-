@@ -1351,6 +1351,7 @@ Leetcode and GFG solutions
 | [0958-sort-array-by-parity-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0961-long-pressed-name) |
 | [0979-di-string-match](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0979-di-string-match) |
+| [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1019-squares-of-a-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1019-squares-of-a-sorted-array) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
 | [1168-duplicate-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1168-duplicate-zeros) |
