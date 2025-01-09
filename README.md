@@ -156,6 +156,7 @@ Leetcode and GFG solutions
 | [2824-check-if-the-number-is-fascinating](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2824-check-if-the-number-is-fascinating) |
 | [2831-number-of-beautiful-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2831-number-of-beautiful-pairs) |
 | [2857-total-distance-traveled](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2857-total-distance-traveled) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2873-prime-pairs-with-target-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2873-prime-pairs-with-target-sum) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3055-maximum-odd-binary-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3055-maximum-odd-binary-number) |
@@ -240,6 +241,7 @@ Leetcode and GFG solutions
 | [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3447-clear-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3447-clear-digits) |
 ## Design
 |  |
@@ -615,6 +617,7 @@ Leetcode and GFG solutions
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
+| [2871-double-a-number-represented-as-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
