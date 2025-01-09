@@ -237,6 +237,7 @@ Leetcode and GFG solutions
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2470-removing-stars-from-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2470-removing-stars-from-a-string) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2736-minimum-additions-to-make-valid-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2736-minimum-additions-to-make-valid-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3447-clear-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3447-clear-digits) |
@@ -594,6 +595,7 @@ Leetcode and GFG solutions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 ## Linked List
 |  |
 | ------- |
@@ -612,6 +614,7 @@ Leetcode and GFG solutions
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Array
@@ -2156,6 +2159,7 @@ Leetcode and GFG solutions
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Probability and Statistics
 |  |
