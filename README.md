@@ -105,7 +105,6 @@ Leetcode and GFG solutions
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [1806-count-of-matches-in-tournament](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1806-count-of-matches-in-tournament) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1817-calculate-money-in-leetcode-bank) |
-| [1844-maximum-number-of-balls-in-a-box](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -1615,7 +1614,6 @@ Leetcode and GFG solutions
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
-| [1844-maximum-number-of-balls-in-a-box](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1873-longest-nice-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1873-longest-nice-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -1925,7 +1923,6 @@ Leetcode and GFG solutions
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1823-determine-if-string-halves-are-alike) |
-| [1844-maximum-number-of-balls-in-a-box](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1844-maximum-number-of-balls-in-a-box) |
 | [1848-sum-of-unique-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1848-sum-of-unique-elements) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
