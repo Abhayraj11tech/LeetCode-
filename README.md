@@ -823,6 +823,7 @@ Leetcode and GFG solutions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1580-shuffle-the-array) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
@@ -1373,6 +1374,7 @@ Leetcode and GFG solutions
 | [1468-check-if-n-and-its-double-exist](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1894-merge-strings-alternately) |
@@ -1472,6 +1474,7 @@ Leetcode and GFG solutions
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1561-rearrange-words-in-a-sentence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1561-rearrange-words-in-a-sentence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1581-the-k-strongest-values-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1581-the-k-strongest-values-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
