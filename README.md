@@ -27,6 +27,7 @@ Leetcode and GFG solutions
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0368-largest-divisible-subset) |
@@ -1127,6 +1128,7 @@ Leetcode and GFG solutions
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0338-counting-bits) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0368-largest-divisible-subset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0396-rotate-function) |
@@ -2160,6 +2162,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0046-permutations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
