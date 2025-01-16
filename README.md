@@ -231,6 +231,7 @@ Leetcode and GFG solutions
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [1666-make-the-string-great](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1666-make-the-string-great) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -385,6 +386,7 @@ Leetcode and GFG solutions
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1714-rearrange-spaces-between-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1714-rearrange-spaces-between-words) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
