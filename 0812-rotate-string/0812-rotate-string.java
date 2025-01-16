@@ -1,6 +1,6 @@
-class Solution {
-    public boolean rotateString(String s, String goal) {
-         boolean flag = false;
+class Solution {     
+    public boolean rotateString(String s, String goal) {         
+                 boolean flag = false;
          StringBuilder str = new StringBuilder();
  
         str.append(s);
@@ -27,7 +27,5 @@ class Solution {
         }
         return flag;
   
-    
-
     }
 }
