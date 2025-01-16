@@ -922,6 +922,7 @@ Leetcode and GFG solutions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2447-merge-similar-items) |
 | [2454-largest-local-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2454-largest-local-values-in-a-matrix) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1395,6 +1396,7 @@ Leetcode and GFG solutions
 | [2271-rearrange-array-elements-by-sign](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
@@ -1657,6 +1659,7 @@ Leetcode and GFG solutions
 | [2428-equal-row-and-column-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2428-equal-row-and-column-pairs) |
 | [2433-best-poker-hand](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2433-best-poker-hand) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2447-merge-similar-items](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2447-merge-similar-items) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2476-check-distances-between-same-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2476-check-distances-between-same-letters) |
@@ -1719,6 +1722,7 @@ Leetcode and GFG solutions
 | [2083-three-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2083-three-divisors) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2668-form-smallest-number-from-two-digit-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2668-form-smallest-number-from-two-digit-arrays) |
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
