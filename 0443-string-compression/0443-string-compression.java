@@ -1,29 +1,20 @@
 class Solution {
     public int compress(char[] chars) {
-        int count = 0;
-        int cmp = 1;
-
-        for (int i = 1; i < chars.length; i++) {
-            if (chars[i - 1] == chars[i]) {
-                cmp++;
-            } else {
-                chars[count++] = chars[i - 1];
-                if (cmp > 1) {
-                    for (char c : Integer.toString(cmp).toCharArray()) {
-                        chars[count++] = c;
-                    }
-                }
-                cmp = 1;
+        String sol = "";
+        for(int i=0;i<chars.length;i++){
+            Integer count = 1;
+            while(i<chars.length-1 && chars[i]==chars[i+1]){
+                ++count;
+                ++i;
+            }
+            sol += chars[i];
+            if(count>1){
+                sol += count.toString();
             }
         }
-
-        chars[count++] = chars[chars.length - 1];
-        if (cmp > 1) {
-            for (char c : Integer.toString(cmp).toCharArray()) {
-                chars[count++] = c;
-            }
+        for(int i=0;i<sol.length();i++){
+            chars[i] = sol.charAt(i);
         }
-
-        return count;
+        return sol.length();
     }
 }
