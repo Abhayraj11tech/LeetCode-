@@ -294,6 +294,7 @@ Leetcode and GFG solutions
 | [0412-fizz-buzz](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0415-add-strings) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
@@ -1576,6 +1577,7 @@ Leetcode and GFG solutions
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0423-reconstruct-original-digits-from-english) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0496-next-greater-element-i) |
@@ -2109,6 +2111,7 @@ Leetcode and GFG solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
