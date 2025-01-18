@@ -623,6 +623,7 @@ Leetcode and GFG solutions
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -1210,6 +1211,7 @@ Leetcode and GFG solutions
 | [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2288-count-operations-to-obtain-zero) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [2388-replace-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2388-replace-elements-in-an-array) |
