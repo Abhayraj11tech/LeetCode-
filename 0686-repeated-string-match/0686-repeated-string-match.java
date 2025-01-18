@@ -14,7 +14,7 @@ class Solution {
 
         sb.append(a);
         if (sb.indexOf(b) != -1) {
-            return count + 1;
+            return ++count;
         }
 
         return -1;
