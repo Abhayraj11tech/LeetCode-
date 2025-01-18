@@ -89,7 +89,6 @@ Leetcode and GFG solutions
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1401-number-of-burgers-with-no-waste-of-ingredients](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1401-number-of-burgers-with-no-waste-of-ingredients) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1448-maximum-69-number) |
@@ -622,7 +621,6 @@ Leetcode and GFG solutions
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
-| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2374-steps-to-make-array-non-decreasing](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2374-steps-to-make-array-non-decreasing) |
