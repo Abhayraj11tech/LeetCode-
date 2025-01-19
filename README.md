@@ -96,6 +96,7 @@ Leetcode and GFG solutions
 | [1500-count-largest-group](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1500-count-largest-group) |
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
+| [1585-the-kth-factor-of-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1585-the-kth-factor-of-n) |
 | [1610-xor-operation-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
@@ -2030,6 +2031,7 @@ Leetcode and GFG solutions
 | [0897-prime-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1307-ugly-number-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1307-ugly-number-iii) |
+| [1585-the-kth-factor-of-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1585-the-kth-factor-of-n) |
 | [2083-three-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2491-smallest-even-multiple) |
