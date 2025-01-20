@@ -817,6 +817,7 @@ Leetcode and GFG solutions
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1449-print-words-vertically](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1449-print-words-vertically) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1848,6 +1849,7 @@ Leetcode and GFG solutions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1603-running-sum-of-1d-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1603-running-sum-of-1d-array) |
@@ -1905,6 +1907,7 @@ Leetcode and GFG solutions
 | [0994-prison-cells-after-n-days](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0994-prison-cells-after-n-days) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1435-xor-queries-of-a-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
