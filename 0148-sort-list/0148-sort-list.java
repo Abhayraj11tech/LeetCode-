@@ -15,24 +15,22 @@ class Solution {
             return head;
         }
         
-        ArrayList<ListNode> arr = new ArrayList<>();
+        ArrayList<Integer> arr = new ArrayList<>();
         ListNode curr = head;
         while (curr != null) {
-            arr.add(curr);
+            arr.add(curr.val);
             curr = curr.next;
         }
-           Collections.sort(arr, new Comparator<ListNode>() {
-            public int compare(ListNode a, ListNode b) {
-                return Integer.compare(a.val, b.val);
-            }
-        });
-                if (arr.isEmpty()) return null;
+           Collections.sort(arr);
+                if (arr.isEmpty()) {
+                    return null;
+                }
 
-        ListNode sol = arr.get(0);
+        ListNode sol = new ListNode(arr.get(0));
         ListNode val = sol;
 
         for (int i = 1; i < arr.size(); i++) {
-            val.next = arr.get(i);
+            val.next = new ListNode(arr.get(i));
             val = val.next;
         }
         val.next = null;
