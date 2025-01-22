@@ -1061,6 +1061,7 @@ Leetcode and GFG solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -1876,6 +1877,7 @@ Leetcode and GFG solutions
 | [3210-count-beautiful-substrings-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3210-count-beautiful-substrings-i) |
 | [3311-ant-on-the-boundary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3311-ant-on-the-boundary) |
 | [3422-find-the-n-th-value-after-k-seconds](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3422-find-the-n-th-value-after-k-seconds) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -2149,6 +2151,7 @@ Leetcode and GFG solutions
 | [3463-alternating-groups-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3570-count-of-substrings-containing-every-vowel-and-k-consonants-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3570-count-of-substrings-containing-every-vowel-and-k-consonants-i) |
+| [3644-minimum-positive-sum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3644-minimum-positive-sum-subarray) |
 ## Hash Function
 |  |
 | ------- |
