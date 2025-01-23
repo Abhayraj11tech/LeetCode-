@@ -904,6 +904,7 @@ Leetcode and GFG solutions
 | [2163-kth-distinct-string-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2195-time-needed-to-buy-tickets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2195-time-needed-to-buy-tickets) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -1517,6 +1518,7 @@ Leetcode and GFG solutions
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2123-the-number-of-weak-characters-in-the-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2123-the-number-of-weak-characters-in-the-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -1668,6 +1670,7 @@ Leetcode and GFG solutions
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2190-count-common-words-with-one-occurrence) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2270-find-all-lonely-numbers-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2270-find-all-lonely-numbers-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -2078,6 +2081,7 @@ Leetcode and GFG solutions
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
