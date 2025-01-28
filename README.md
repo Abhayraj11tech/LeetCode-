@@ -620,6 +620,7 @@ Leetcode and GFG solutions
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
@@ -2229,6 +2230,7 @@ Leetcode and GFG solutions
 | [0021-merge-two-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
+| [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
