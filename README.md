@@ -12,6 +12,7 @@ Leetcode and GFG solutions
 | [0013-roman-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
@@ -615,7 +616,6 @@ Leetcode and GFG solutions
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
@@ -2227,7 +2227,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0021-merge-two-sorted-lists) |
-| [0025-reverse-nodes-in-k-group](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
