@@ -29,7 +29,6 @@ Leetcode and GFG solutions
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
-| [0326-power-of-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0326-power-of-three) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
@@ -2236,7 +2235,6 @@ Leetcode and GFG solutions
 | [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
-| [0326-power-of-three](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0326-power-of-three) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
