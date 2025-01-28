@@ -21,6 +21,7 @@ Leetcode and GFG solutions
 | [0189-rotate-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0204-count-primes) |
+| [0233-number-of-digit-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
@@ -1147,6 +1148,7 @@ Leetcode and GFG solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0152-maximum-product-subarray) |
+| [0233-number-of-digit-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
 | [0338-counting-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0338-counting-bits) |
@@ -2231,6 +2233,7 @@ Leetcode and GFG solutions
 | [0050-powx-n](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
