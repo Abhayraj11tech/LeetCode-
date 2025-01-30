@@ -78,6 +78,7 @@ Leetcode and GFG solutions
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
@@ -1166,6 +1167,7 @@ Leetcode and GFG solutions
 | [0875-longest-mountain-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
@@ -2213,6 +2215,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Backtracking
@@ -2274,6 +2277,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Rolling Hash
