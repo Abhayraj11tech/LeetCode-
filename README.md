@@ -1089,6 +1089,7 @@ Leetcode and GFG solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0367-valid-perfect-square](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0441-arranging-coins) |
@@ -2414,4 +2415,8 @@ Leetcode and GFG solutions
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1908-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
