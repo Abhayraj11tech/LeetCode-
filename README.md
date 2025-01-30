@@ -798,6 +798,7 @@ Leetcode and GFG solutions
 | [1095-two-city-scheduling](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1095-two-city-scheduling) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
+| [1127-last-stone-weight](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1127-last-stone-weight) |
 | [1137-height-checker](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1137-height-checker) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
 | [1168-duplicate-zeros](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1168-duplicate-zeros) |
@@ -2082,6 +2083,7 @@ Leetcode and GFG solutions
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1014-k-closest-points-to-origin) |
+| [1127-last-stone-weight](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-reduce-array-size-to-the-half](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1464-reduce-array-size-to-the-half) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
