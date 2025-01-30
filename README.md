@@ -78,6 +78,7 @@ Leetcode and GFG solutions
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1070-convert-to-base-2](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1070-convert-to-base-2) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
@@ -135,6 +136,7 @@ Leetcode and GFG solutions
 | [2324-find-triangular-sum-of-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2402-maximum-xor-after-operations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2402-maximum-xor-after-operations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2481-strictly-palindromic-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2491-smallest-even-multiple) |
 | [2496-count-days-spent-together](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2496-count-days-spent-together) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2541-sum-of-number-and-its-reverse) |
@@ -1166,6 +1168,7 @@ Leetcode and GFG solutions
 | [0875-longest-mountain-in-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1087-longest-arithmetic-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
@@ -1426,6 +1429,7 @@ Leetcode and GFG solutions
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2442-number-of-arithmetic-triplets) |
+| [2481-strictly-palindromic-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2481-strictly-palindromic-number) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2551-apply-operations-to-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2551-apply-operations-to-an-array) |
@@ -2213,7 +2217,9 @@ Leetcode and GFG solutions
 | ------- |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
+| [2481-strictly-palindromic-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2481-strictly-palindromic-number) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Backtracking
 |  |
@@ -2274,6 +2280,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 ## Rolling Hash
