@@ -982,6 +982,7 @@ Leetcode and GFG solutions
 | [2682-count-increasing-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2682-count-increasing-quadruplets) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -1245,6 +1246,7 @@ Leetcode and GFG solutions
 | [2645-pass-the-pillow](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2645-pass-the-pillow) |
 | [2679-count-distinct-numbers-on-board](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2679-count-distinct-numbers-on-board) |
 | [2684-determine-the-winner-of-a-bowling-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2684-determine-the-winner-of-a-bowling-game) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2698-find-the-array-concatenation-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2698-find-the-array-concatenation-value) |
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
@@ -2100,6 +2102,7 @@ Leetcode and GFG solutions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2728-sum-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2728-sum-in-a-matrix) |
 | [3226-minimum-number-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3226-minimum-number-game) |
