@@ -7,8 +7,8 @@ class Solution {
         for(int i=0;i<word1.length()+word2.length();i=i+0){
             if(count == 0){
                 if(p<word1.length()){ 
-                sol += word1.charAt(p++);
-                ++i;
+                     sol += word1.charAt(p++);
+                        ++i;
                 }
                 count = 1;
             }
