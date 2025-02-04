@@ -621,6 +621,7 @@ Leetcode and GFG solutions
 | [0023-merge-k-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
+| [0142-linked-list-cycle-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
@@ -1364,6 +1365,7 @@ Leetcode and GFG solutions
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
@@ -1583,6 +1585,7 @@ Leetcode and GFG solutions
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
+| [0142-linked-list-cycle-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0202-happy-number) |
