@@ -819,6 +819,7 @@ Leetcode and GFG solutions
 | [1349-check-if-it-is-a-straight-line](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1349-check-if-it-is-a-straight-line) |
 | [1355-minimum-deletions-to-make-array-beautiful](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1355-minimum-deletions-to-make-array-beautiful) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1364-tuple-with-same-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1386-shift-2d-grid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1386-shift-2d-grid) |
@@ -1651,6 +1652,7 @@ Leetcode and GFG solutions
 | [1297-maximum-number-of-balloons](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1319-unique-number-of-occurrences) |
 | [1363-greatest-english-letter-in-upper-and-lower-case](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1363-greatest-english-letter-in-upper-and-lower-case) |
+| [1364-tuple-with-same-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1370-count-number-of-nice-subarrays) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1400-find-winner-on-a-tic-tac-toe-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1400-find-winner-on-a-tic-tac-toe-game) |
@@ -1982,6 +1984,7 @@ Leetcode and GFG solutions
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1297-maximum-number-of-balloons](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1297-maximum-number-of-balloons) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1364-tuple-with-same-product](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1364-tuple-with-same-product) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1483-rank-teams-by-votes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1483-rank-teams-by-votes) |
