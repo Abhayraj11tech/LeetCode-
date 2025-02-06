@@ -1,37 +1,29 @@
-import java.util.ArrayList;
-
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode() {}
- *     ListNode(int val) { this.val = val; }
- *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- * }
- */
 class Solution {
     public void reorderList(ListNode head) {
         if (head == null || head.next == null) {
             return;
         }
 
-        ArrayList<ListNode> arr = new ArrayList<>();
+        ArrayList<Integer> arr = new ArrayList<>();
         ListNode temp = head;
         while (temp != null) {
-            arr.add(temp);
+            arr.add(temp.val);
             temp = temp.next;
         }
 
-        int left = 0;
-        int right = arr.size() - 1;
-        while (left < right) {
-            arr.get(left).next = arr.get(right);
-            left++;
-            if (left == right) break;
-            arr.get(right).next = arr.get(left);
-            right--;
+        ListNode curr = head;
+        int p = 0, q = arr.size() - 1;
+
+        while (p <= q) {
+            if (p == q) {
+                curr.val = arr.get(p); 
+                break; 
+            } else {
+                curr.val = arr.get(p++); 
+                curr = curr.next; 
+                curr.val = arr.get(q--); 
+                curr = curr.next; 
+            }
         }
-        arr.get(left).next = null; 
     }
 }
