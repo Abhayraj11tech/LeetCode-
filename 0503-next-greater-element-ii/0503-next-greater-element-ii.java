@@ -1,18 +1,29 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        int[] sol = new int[nums.length];
-        Arrays.fill(sol, -1);  
-        
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 1; j < nums.length; j++) { 
-                int index = (i + j) % nums.length;
-                if (nums[index] > nums[i]) {
-                    sol[i] = nums[index];
+        int [] sol = new int[nums.length];
+        for(int i=0;i<nums.length;i++){
+            int elm = -1;
+            boolean flag = false;
+            for(int j=i+1;j<nums.length;j++){
+                if(nums[j]>nums[i]){
+                    sol[i] = nums[j];
+                    flag = true;
                     break;
                 }
             }
+            if(!flag){
+                for(int k=0;k<i;k++){
+                    if(nums[k]>nums[i]){
+                    sol[i] = nums[k];
+                    flag = true;
+                    break;
+                }
+                }
+            }
+            if(!flag){
+                sol[i] = -1;
+            }
         }
-        
         return sol;
     }
 }
