@@ -1,35 +1,26 @@
 class Solution {
     public int punishmentNumber(int n) {
-        int sol = 0;
-
-        for(int i = 1; i <= n; i++) {
-            int val = i;
-            int num = val * val;
-            String str = Integer.toString(num);
-            if (canPartition(str, val)) {
-                sol += num;
+        int count = 0;
+        for (int i = 1; i <= n; i++) {
+            int val = i * i;
+            if (check(Integer.toString(val), 0, i, 0)) {
+                count += val;
             }
         }
-        return sol;
+        return count;
     }
 
-    private boolean canPartition(String str, int target) {
-        return helper(str, 0, 0, target);
-    }
-
-    private boolean helper(String str, int idx, int currentSum, int target) {
-        if (idx == str.length()) {
-            return currentSum == target;
+    public boolean check(String dt, int idx, int target, int sum) {
+        if (idx == dt.length()) {
+            return sum == target;
         }
-
-        for (int i = idx; i < str.length(); i++) {
-            String part = str.substring(idx, i + 1);
-            int partValue = Integer.parseInt(part);
-            if (helper(str, i + 1, currentSum + partValue, target)) {
+        int num = 0;
+        for (int i = idx; i < dt.length(); i++) {
+            num = num * 10 + (dt.charAt(i) - '0');
+            if (check(dt, i + 1, target, sum + num)) {
                 return true;
             }
         }
-
         return false;
     }
 }
