@@ -438,6 +438,7 @@ Leetcode and GFG solutions
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2107-find-unique-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2128-reverse-prefix-of-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2128-reverse-prefix-of-word) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -910,6 +911,7 @@ Leetcode and GFG solutions
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2107-find-unique-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2107-find-unique-binary-string) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
@@ -1699,6 +1701,7 @@ Leetcode and GFG solutions
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2107-find-unique-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2107-find-unique-binary-string) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2122-count-special-quadruplets) |
 | [2133-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2133-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
@@ -2260,6 +2263,7 @@ Leetcode and GFG solutions
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2107-find-unique-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2107-find-unique-binary-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Monotonic Queue
 |  |
