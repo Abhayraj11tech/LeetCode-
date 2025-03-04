@@ -21,9 +21,6 @@ class Solution {
         String str = sb.toString();
 
         return str;
-        // System.out.println(str);
-
-
         
     }
 }
