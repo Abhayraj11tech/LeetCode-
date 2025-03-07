@@ -535,6 +535,7 @@ Leetcode and GFG solutions
 | [0179-largest-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0324-wiggle-sort-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0409-longest-palindrome) |
@@ -713,6 +714,7 @@ Leetcode and GFG solutions
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0324-wiggle-sort-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
