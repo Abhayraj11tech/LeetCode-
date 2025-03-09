@@ -1,6 +1,6 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int val = 0;
+     int val = 0;
         for (int i = 0; i < s.length(); i++) {
             char cmp = s.charAt(i);
             
