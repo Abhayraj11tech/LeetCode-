@@ -405,6 +405,7 @@ Leetcode and GFG solutions
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1751-slowest-key](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1751-slowest-key) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1797-goal-parser-interpretation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1797-goal-parser-interpretation) |
@@ -1550,6 +1551,7 @@ Leetcode and GFG solutions
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1829-maximum-units-on-a-truck) |
 | [1860-find-kth-largest-xor-coordinate-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1860-find-kth-largest-xor-coordinate-value) |
@@ -1695,6 +1697,7 @@ Leetcode and GFG solutions
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1699-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1844-maximum-number-of-balls-in-a-box) |
@@ -2022,6 +2025,7 @@ Leetcode and GFG solutions
 | [1510-find-lucky-integer-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1604-least-number-of-unique-integers-after-k-removals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1604-least-number-of-unique-integers-after-k-removals) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
+| [1777-determine-if-two-strings-are-close](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1844-maximum-number-of-balls-in-a-box) |
