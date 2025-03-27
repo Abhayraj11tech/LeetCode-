@@ -640,6 +640,7 @@ Leetcode and GFG solutions
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0445-add-two-numbers-ii) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
