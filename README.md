@@ -122,6 +122,7 @@ Leetcode and GFG solutions
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2032-largest-odd-number-in-string) |
 | [2039-sum-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2039-sum-game) |
+| [2050-count-good-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2050-count-good-numbers) |
 | [2083-three-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -2318,6 +2319,7 @@ Leetcode and GFG solutions
 | [0394-decode-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0394-decode-string) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2050-count-good-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Abhayraj11tech/LeetCode-/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Probability and Statistics
