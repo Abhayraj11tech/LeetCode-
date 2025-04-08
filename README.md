@@ -289,6 +289,7 @@ Leetcode and GFG solutions
 | [0067-add-binary](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0165-compare-version-numbers) |
@@ -1193,6 +1194,7 @@ Leetcode and GFG solutions
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0152-maximum-product-subarray) |
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
@@ -2303,6 +2305,7 @@ Leetcode and GFG solutions
 | [0078-subsets](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
