@@ -677,6 +677,7 @@ Leetcode and GFG solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0041-first-missing-positive) |
@@ -1325,6 +1326,7 @@ Leetcode and GFG solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
@@ -1632,6 +1634,7 @@ Leetcode and GFG solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
@@ -2300,6 +2303,7 @@ Leetcode and GFG solutions
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0046-permutations) |
