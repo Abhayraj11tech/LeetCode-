@@ -27,6 +27,7 @@ Leetcode and GFG solutions
 | [0264-ugly-number-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0319-bulb-switcher) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
@@ -298,6 +299,7 @@ Leetcode and GFG solutions
 | [0179-largest-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
@@ -2306,6 +2308,7 @@ Leetcode and GFG solutions
 | [0079-word-search](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0282-expression-add-operators) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0800-letter-case-permutation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0800-letter-case-permutation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
