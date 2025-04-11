@@ -83,6 +83,7 @@ Leetcode and GFG solutions
 | [1115-valid-boomerang](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1148-adding-two-negabinary-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1148-adding-two-negabinary-numbers) |
+| [1236-n-th-tribonacci-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1260-day-of-the-year) |
 | [1274-number-of-days-between-two-dates](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1274-number-of-days-between-two-dates) |
 | [1276-closest-divisors](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1276-closest-divisors) |
@@ -1218,6 +1219,7 @@ Leetcode and GFG solutions
 | [1057-numbers-with-repeated-digits](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1057-numbers-with-repeated-digits) |
 | [1086-divisor-game](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1086-divisor-game) |
 | [1087-longest-arithmetic-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1087-longest-arithmetic-subsequence) |
+| [1236-n-th-tribonacci-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
@@ -2109,6 +2111,7 @@ Leetcode and GFG solutions
 | [0070-climbing-stairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0397-integer-replacement) |
+| [1236-n-th-tribonacci-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 ## Bucket Sort
 |  |
 | ------- |
