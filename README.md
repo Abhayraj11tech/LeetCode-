@@ -270,6 +270,7 @@ Leetcode and GFG solutions
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1477-product-of-the-last-k-numbers) |
 ## String
 |  |
@@ -1324,6 +1325,7 @@ Leetcode and GFG solutions
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
+| [0969-number-of-recent-calls](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1477-product-of-the-last-k-numbers) |
 ## Matrix
 |  |
@@ -2286,6 +2288,7 @@ Leetcode and GFG solutions
 | [0239-sliding-window-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0969-number-of-recent-calls](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
 | [1622-max-value-of-equation](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1622-max-value-of-equation) |
 | [1814-jump-game-vi](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1814-jump-game-vi) |
