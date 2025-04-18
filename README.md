@@ -339,6 +339,7 @@ Leetcode and GFG solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0647-palindromic-substrings](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0648-replace-words) |
+| [0649-dota2-senate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0680-valid-palindrome-ii) |
@@ -557,6 +558,7 @@ Leetcode and GFG solutions
 | [0561-array-partition](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0611-valid-triangle-number) |
+| [0649-dota2-senate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0649-dota2-senate) |
 | [0678-valid-parenthesis-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0680-valid-palindrome-ii) |
 | [0917-boats-to-save-people](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0917-boats-to-save-people) |
@@ -2287,6 +2289,7 @@ Leetcode and GFG solutions
 | [0225-implement-stack-using-queues](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0649-dota2-senate) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0969-number-of-recent-calls](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0969-number-of-recent-calls) |
 | [0987-reveal-cards-in-increasing-order](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0987-reveal-cards-in-increasing-order) |
