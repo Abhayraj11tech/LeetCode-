@@ -1,15 +1,20 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        StringBuilder sb1 = new StringBuilder(s);
-        StringBuilder sb2 = new StringBuilder(t);
+        HashMap<Character, Integer> map = new HashMap<>();
         char sol = '\0';
         
-        for (int i = 0; i < sb2.length(); i++) {
-            if (sb1.indexOf(String.valueOf(sb2.charAt(i))) == -1) {
-                sol = sb2.charAt(i);
+        for (char c : s.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0) + 1);
+        }
+        
+        for (char c : t.toCharArray()) {
+            map.put(c, map.getOrDefault(c, 0) - 1);
+        }
+        
+        for (char c : map.keySet()) {
+            if (map.get(c) < 0) {
+                sol = c;
                 break;
-            } else {
-                sb1.deleteCharAt(sb1.indexOf(String.valueOf(sb2.charAt(i))));
             }
         }
         
