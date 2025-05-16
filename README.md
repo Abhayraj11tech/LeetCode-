@@ -103,6 +103,7 @@ Leetcode and GFG solutions
 | [1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1515-find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k) |
 | [1553-count-triplets-that-can-form-two-arrays-of-equal-xor](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1553-count-triplets-that-can-form-two-arrays-of-equal-xor) |
 | [1610-xor-operation-in-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1610-xor-operation-in-an-array) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1635-number-of-good-pairs](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1635-number-of-good-pairs) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1636-number-of-substrings-with-only-1s) |
