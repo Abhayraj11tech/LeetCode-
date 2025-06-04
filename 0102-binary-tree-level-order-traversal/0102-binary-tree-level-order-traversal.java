@@ -1,32 +1,55 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> sol = new LinkedList<>();
-        if (root == null) {
-            return sol;
+        List<List<Integer>> sol = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        level(sol,list,root);
+        return sol;
+    }
+    public void level(List<List<Integer>> sol, List<Integer> list,TreeNode root){
+        if(root == null){
+            return;
         }
-
         Queue<TreeNode> q = new LinkedList<>();
         q.add(root);
+        q.add(null);
 
-        while (!q.isEmpty()) {
-            int size = q.size();
-            List<Integer> val = new ArrayList<>();
 
-            for (int i = 0; i < size; i++) {
-                TreeNode node = q.poll();
-                val.add(node.val);
-
-                if (node.left != null) {
-                    q.add(node.left);
+        while(!q.isEmpty()){
+            TreeNode curr = q.remove();
+            if(curr == null){
+                sol.add(list);
+                list = new ArrayList<>();
+                if(q.isEmpty()){
+                    break;
                 }
-                if (node.right != null) {
-                    q.add(node.right);
+                else{
+                    q.add(null);
                 }
             }
-
-            sol.add(val);  
+            else{
+                list.add(curr.val);
+                if(curr.left != null){
+                    q.add(curr.left);
+                }
+                if(curr.right!=null){
+                    q.add(curr.right);
+                }
+            }
         }
-
-        return sol;  
     }
 }
