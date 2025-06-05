@@ -15,18 +15,11 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        ArrayList<TreeNode> arr = new ArrayList<>();
-
-        inorderTraversal(root, arr);
-       return arr.size();
-    }
-
-    private static void inorderTraversal(TreeNode node, ArrayList<TreeNode> arr) {
-        if (node == null){
-            return;
+        if(root == null){
+            return 0;
         }
-        inorderTraversal(node.left, arr);
-        arr.add(node);
-        inorderTraversal(node.right, arr);
-    }	
+        int lh = countNodes(root.left);
+        int rh = countNodes(root.right);
+        return lh + rh + 1;
+    }
 }
