@@ -1,20 +1,22 @@
 class Solution {
     public TreeNode searchBST(TreeNode root, int val) {
-        return search(root, val);
-    }
-
-    private TreeNode search(TreeNode root, int x) {
-        TreeNode noot = root;
-        while (noot != null) {
-            if (noot.val == x) {
-                return noot; 
-            }
-            if (x < noot.val) {
-                noot = noot.left;
-            } else {
-                noot = noot.right;
-            }
+        if (root == null) {
+            return null;
         }
-        return null; 
+        if (root.val == val) {
+            return root;
+        }
+
+        TreeNode l = searchBST(root.left, val);
+        TreeNode r = searchBST(root.right, val);
+
+        if (l == null && r == null) {
+            return null;
+        }
+        if (l != null) {
+            return l;
+        } else {
+            return r;
+        }
     }
 }
