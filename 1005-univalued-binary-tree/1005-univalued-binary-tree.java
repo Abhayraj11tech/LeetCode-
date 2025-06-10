@@ -1,14 +1,28 @@
 class Solution {
     public boolean isUnivalTree(TreeNode root) {
-        Set<Integer> set = new HashSet<>();
-        inorderTraversal(root, set);
-        return set.size() == 1;
+        if (root == null) {
+            return true; 
+        }
+        int rootValue = root.val;
+        return isUnivalTreePreorder(root, rootValue);
     }
 
-    private void inorderTraversal(TreeNode node, Set<Integer> set) {
-        if (node == null) return;
-        inorderTraversal(node.left, set);
-        set.add(node.val);
-        inorderTraversal(node.right, set);
+    private boolean isUnivalTreePreorder(TreeNode node, int expectedValue) {
+        if (node == null) {
+            return true;
+        }
+
+        if (node.val != expectedValue) {
+            return false;
+        }
+
+       
+        if (!isUnivalTreePreorder(node.left, expectedValue)) {
+            return false;
+        }
+        if (!isUnivalTreePreorder(node.right, expectedValue)) {
+            return false;
+        }
+        return true;
     }
 }
