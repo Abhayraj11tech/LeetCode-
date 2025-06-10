@@ -1687,6 +1687,7 @@ Leetcode and GFG solutions
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0645-set-mismatch) |
 | [0648-replace-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0648-replace-words) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
 | [0749-shortest-completing-word](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0749-shortest-completing-word) |
@@ -1882,6 +1883,7 @@ Leetcode and GFG solutions
 | [0563-binary-tree-tilt](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -2431,6 +2433,7 @@ Leetcode and GFG solutions
 | [0563-binary-tree-tilt](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -2504,6 +2507,7 @@ Leetcode and GFG solutions
 | [0563-binary-tree-tilt](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0652-find-duplicate-subtrees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
