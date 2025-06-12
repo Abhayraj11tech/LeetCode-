@@ -234,6 +234,7 @@ Leetcode and GFG solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
 | [1048-clumsy-factorial](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1048-clumsy-factorial) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -632,6 +633,7 @@ Leetcode and GFG solutions
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1002-maximum-width-ramp) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -836,6 +838,7 @@ Leetcode and GFG solutions
 | [1031-add-to-array-form-of-integer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1031-add-to-array-form-of-integer) |
 | [1044-find-common-characters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1046-max-consecutive-ones-iii) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1071-binary-prefix-divisible-by-5](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1071-binary-prefix-divisible-by-5) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1072-next-greater-node-in-linked-list) |
 | [1080-camelcase-matching](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1080-camelcase-matching) |
@@ -2448,6 +2451,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1254-deepest-leaves-sum) |
@@ -2474,6 +2478,7 @@ Leetcode and GFG solutions
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Binary Tree
 |  |
@@ -2519,6 +2524,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1207-delete-nodes-and-return-forest) |
 | [1254-deepest-leaves-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1254-deepest-leaves-sum) |
