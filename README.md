@@ -1236,6 +1236,7 @@ Leetcode and GFG solutions
 | [1236-n-th-tribonacci-number](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1236-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1250-longest-common-subsequence) |
 | [1362-airplane-seat-assignment-probability](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1362-airplane-seat-assignment-probability) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1511-count-number-of-teams) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -1907,6 +1908,7 @@ Leetcode and GFG solutions
 | [1254-deepest-leaves-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
@@ -2464,6 +2466,7 @@ Leetcode and GFG solutions
 | [1254-deepest-leaves-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
@@ -2488,6 +2491,7 @@ Leetcode and GFG solutions
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -2541,6 +2545,7 @@ Leetcode and GFG solutions
 | [1254-deepest-leaves-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1450-delete-leaves-with-a-given-value) |
+| [1475-maximum-sum-bst-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1731-even-odd-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1731-even-odd-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/Abhayraj11tech/LeetCode-/tree/master/2384-root-equals-sum-of-children) |
