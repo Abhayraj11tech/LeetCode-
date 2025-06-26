@@ -1,23 +1,39 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
+    static ArrayList<Integer> arr;
     public boolean findTarget(TreeNode root, int k) {
-        ArrayList<TreeNode> arr = new ArrayList<>();
-        inorderTraversal(root, arr);
-        
-        HashSet<Integer> set = new HashSet<>();
-        for (int i = 0; i < arr.size(); i++) {
-            int val = k - arr.get(i).val; 
-            if (set.contains(val)) {
-                return true; 
+        arr = new ArrayList<>();
+        inOrder(root);
+        for(int i=0;i<arr.size();i++){
+            for(int j=0;j<arr.size();j++){
+                if(i!=j && (arr.get(i)+arr.get(j)==k)){
+                    return true;
+                }
             }
-            set.add(arr.get(i).val); 
         }
-        return false; 
-    }
+        return false;
 
-    private void inorderTraversal(TreeNode node, ArrayList<TreeNode> arr) {
-        if (node == null) return;
-        inorderTraversal(node.left, arr);
-        arr.add(node);
-        inorderTraversal(node.right, arr);
+    }
+    public static void inOrder(TreeNode root){
+        if(root==null){
+            return;
+        }
+        inOrder(root.left);
+        arr.add(root.val);
+        inOrder(root.right);
     }
 }
