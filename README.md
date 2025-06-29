@@ -270,6 +270,7 @@ Leetcode and GFG solutions
 | [0155-min-stack](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
@@ -308,6 +309,7 @@ Leetcode and GFG solutions
 | [0242-valid-anagram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0318-maximum-product-of-word-lengths) |
@@ -712,7 +714,7 @@ Leetcode and GFG solutions
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0090-subsets-ii) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -1399,7 +1401,7 @@ Leetcode and GFG solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0053-maximum-subarray) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0169-majority-element) |
@@ -1659,7 +1661,7 @@ Leetcode and GFG solutions
 | [0041-first-missing-positive](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0073-set-matrix-zeroes) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0139-word-break) |
@@ -1886,6 +1888,7 @@ Leetcode and GFG solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -1933,6 +1936,7 @@ Leetcode and GFG solutions
 | [0199-binary-tree-right-side-view](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0365-water-and-jug-problem](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0365-water-and-jug-problem) |
 | [0404-sum-of-left-leaves](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0513-find-bottom-left-tree-value) |
@@ -2431,7 +2435,7 @@ Leetcode and GFG solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0110-balanced-binary-tree) |
@@ -2447,6 +2451,7 @@ Leetcode and GFG solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -2518,7 +2523,7 @@ Leetcode and GFG solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
-| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0110-balanced-binary-tree) |
@@ -2534,6 +2539,7 @@ Leetcode and GFG solutions
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0501-find-mode-in-binary-search-tree) |
