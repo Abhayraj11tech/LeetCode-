@@ -206,6 +206,7 @@ Leetcode and GFG solutions
 | [0084-largest-rectangle-in-histogram](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -655,6 +656,7 @@ Leetcode and GFG solutions
 | [0023-merge-k-sorted-lists](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0143-reorder-list) |
@@ -1878,6 +1880,7 @@ Leetcode and GFG solutions
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0130-surrounded-regions) |
@@ -2440,6 +2443,7 @@ Leetcode and GFG solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -2528,6 +2532,7 @@ Leetcode and GFG solutions
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0144-binary-tree-preorder-traversal) |
