@@ -273,6 +273,7 @@ Leetcode and GFG solutions
 | [0225-implement-stack-using-queues](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0303-range-sum-query-immutable) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0817-design-hashmap) |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
@@ -1343,6 +1344,7 @@ Leetcode and GFG solutions
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0937-online-stock-span) |
 | [0969-number-of-recent-calls](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0969-number-of-recent-calls) |
 | [1477-product-of-the-last-k-numbers](https://github.com/Abhayraj11tech/LeetCode-/tree/master/1477-product-of-the-last-k-numbers) |
@@ -2204,6 +2206,7 @@ Leetcode and GFG solutions
 | [0506-relative-ranks](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0506-relative-ranks) |
 | [0658-find-k-closest-elements](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0692-top-k-frequent-words) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0948-sort-an-array](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0948-sort-an-array) |
@@ -2475,6 +2478,7 @@ Leetcode and GFG solutions
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0904-leaf-similar-trees) |
@@ -2510,6 +2514,7 @@ Leetcode and GFG solutions
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0975-range-sum-of-bst) |
@@ -2561,6 +2566,7 @@ Leetcode and GFG solutions
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/Abhayraj11tech/LeetCode-/tree/master/0904-leaf-similar-trees) |
