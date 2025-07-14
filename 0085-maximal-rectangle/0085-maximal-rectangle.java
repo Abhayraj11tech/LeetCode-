@@ -16,7 +16,8 @@ class Solution {
             int n = heights.length;
             
             for (int i = 0; i < n; i++) {
-                for (int j = i, minHeight = Integer.MAX_VALUE; j < n; j++) {
+                int  minHeight = Integer.MAX_VALUE;
+                for (int j = i; j < n; j++) {
                     minHeight = Math.min(minHeight, heights[j]);
                     int area = minHeight * (j - i + 1);
                     maxArea = Math.max(maxArea, area);
