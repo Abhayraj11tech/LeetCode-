@@ -1,30 +1,29 @@
 class Solution {
     public int maximalRectangle(char[][] matrix) {
-        if (matrix == null || matrix.length == 0 || matrix[0].length == 0)
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) {
             return 0;
-        
-        int rows = matrix.length;
-        int cols = matrix[0].length;
-        int[] heights = new int[cols + 1]; 
-        int maxArea = 0;
-        
+        }
+
+        int r = matrix.length;
+        int c = matrix[0].length;
+        int[] height = new int[c];
+        int max = 0;
+
         for (char[] row : matrix) {
-            for (int i = 0; i < cols; i++) {
-                heights[i] = (row[i] == '1') ? heights[i] + 1 : 0;
+            for (int i = 0; i < c; i++) {
+                height[i] = (row[i] == '1') ? height[i] + 1 : 0;
             }
-            
-            int n = heights.length;
-            
-            for (int i = 0; i < n; i++) {
-                int  minHeight = Integer.MAX_VALUE;
-                for (int j = i; j < n; j++) {
-                    minHeight = Math.min(minHeight, heights[j]);
-                    int area = minHeight * (j - i + 1);
-                    maxArea = Math.max(maxArea, area);
+
+            for (int i = 0; i < c; i++) {
+                int minH = height[i];
+                for (int j = i; j < c; j++) {
+                    minH = Math.min(minH, height[j]);
+                    int area = minH * (j - i + 1);
+                    max = Math.max(max, area);
                 }
             }
         }
-        
-        return maxArea;
+
+        return max;
     }
 }
