@@ -1,34 +1,35 @@
-class Solution {
+public class Solution {
     public int sumSubarrayMins(int[] arr) {
-        int mod = 1000000007;
+        int MOD = 1_000_000_007;
         int n = arr.length;
-        int[] ple = new int[n]; 
-        int[] nle = new int[n];
-        Stack<Integer> stack = new Stack<>();
-        
-        for (int i = 0; i < n; i++) {
-            while (!stack.isEmpty() && arr[stack.peek()] > arr[i]) {
-                stack.pop();
+        int[] prev = new int[n];
+        int[] next = new int[n];
+        Stack<Integer> s1 = new Stack<>();
+        Stack<Integer> s2 = new Stack<>();
+
+        for (int i = 0; i < n; ++i) {
+            while (!s1.isEmpty() && arr[s1.peek()] > arr[i]) {
+                s1.pop();
             }
-            ple[i] = stack.isEmpty() ? (i + 1) : (i - stack.peek());
-            stack.push(i);
-        }
-        
-        stack.clear();
-    
-        for (int i = n - 1; i >= 0; i--) {
-            while (!stack.isEmpty() && arr[stack.peek()] >= arr[i]) {
-                stack.pop();
-            }
-            nle[i] = stack.isEmpty() ? (n - i) : (stack.peek() - i);
-            stack.push(i);
+            prev[i] = s1.isEmpty() ? -1 : s1.peek();
+            s1.push(i);
         }
 
-        long sol = 0;
-        for (int i = 0; i < n; i++) {
-            sol = (sol + (long) arr[i] * ple[i] * nle[i]) % mod;
+        for (int i = n - 1; i >= 0; --i) {
+            while (!s2.isEmpty() && arr[s2.peek()] >= arr[i]) {
+                s2.pop();
+            }
+            next[i] = s2.isEmpty() ? n : s2.peek();
+            s2.push(i);
         }
 
-        return (int) sol;
+        long res = 0;
+        for (int i = 0; i < n; ++i) {
+            long left = i - prev[i];
+            long right = next[i] - i;
+            res = (res + arr[i] * left * right) % MOD;
+        }
+
+        return (int) res;
     }
 }
