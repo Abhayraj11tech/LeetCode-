@@ -1,10 +1,13 @@
 class Solution {
     public void reverseString(char[] s) {
-        char[] arr = Arrays.copyOf(s, s.length);
-        for(int i=0;i<arr.length;i++){
-            s[i] = arr[arr.length-1-i];
+        int l = 0;
+        int r = s.length-1;
+        while(l<=r){
+            char c = s[l];
+            s[l] = s[r];
+            s[r] = c;
+            ++l;
+            --r;
         }
-
-        
     }
 }
