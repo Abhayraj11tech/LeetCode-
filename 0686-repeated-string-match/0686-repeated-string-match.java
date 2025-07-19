@@ -1,22 +1,20 @@
 class Solution {
     public int repeatedStringMatch(String a, String b) {
+        String part = a;
         int count = 1;
-        StringBuilder sb = new StringBuilder(a);
-
-        while (sb.length() < b.length()) {
-            sb.append(a);
-            count++;
+        while(a.length()<b.length()){
+            ++count;
+            a += part;
         }
-
-        if (sb.indexOf(b) != -1) {
+        if(a.contains(b)){
             return count;
         }
-
-        sb.append(a);
-        if (sb.indexOf(b) != -1) {
-            return ++count;
+            ++count;
+            a += part;
+        
+         if(a.contains(b)){
+            return count;
         }
-
         return -1;
     }
 }
